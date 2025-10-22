@@ -1,0 +1,1746 @@
+{
+  "auth": {
+    "signIn": "Iniciar sesión",
+    "signUp": "Crear cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "welcomeTitle": "Bienvenido de nuevo",
+    "welcomeSubtitle": "Inicia sesión para gestionar tu cuenta de Brivida.",
+    "emailLabel": "Correo electrónico",
+    "emailHint": "tu@ejemplo.com",
+    "passwordLabel": "Contraseña",
+    "passwordHint": "Introduce tu contraseña",
+    "noAccount": "¿Todavía no tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?",
+    "signInButton": "Iniciar sesión",
+    "signUpButton": "Crear cuenta",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "package": {
+      "basic": {
+        "title": "Apoyo Básico"
+      },
+      "secure": {
+        "title": "Arranque Seguro"
+      }
+    },
+    "required": "Se requiere autenticación",
+    "description": "Inicia sesión para ver y seguir tus solicitudes Oficializa-te."
+  },
+  "statusList": {
+    "title": "Tus compras",
+    "empty": {
+      "title": "Aún no has comprado un paquete",
+      "subtitle": "Elige una de las opciones para comenzar Oficializa-te."
+    },
+    "assigned": "Especialista asignado: {adminId}",
+    "updated": "Última actualización: {timestamp}",
+    "support": "Contactar soporte",
+    "error": "No se pudieron cargar los servicios: {message}"
+  },
+  "oficializaTe": {
+    "appBarTitle": "🏛️ Hazte oficial",
+    "header": {
+      "title": "Hazte independiente",
+      "subtitle": "Regístrate oficialmente como profesional autónomo",
+      "adminServices": {
+        "banner": {
+          "title": "Trabaja de forma legal y segura",
+          "subtitle": "Compra el paquete Oficializa-te y recibe acompañamiento paso a paso",
+          "cta": "Comenzar Oficializa-te",
+          "statusTitle": "Estado de tu proceso",
+          "manage": "Gestionar",
+          "updated": "Actualizado {date}",
+          "help": "¿Necesitas ayuda? Respondemos en menos de 24 h laborables."
+        },
+        "status": {
+          "pendingPayment": "Pago pendiente",
+          "pending": "En revisión",
+          "assigned": "Especialista asignado",
+          "completed": "Completado",
+          "cancelled": "Cancelado"
+        },
+        "package": {
+          "basic": {
+            "title": "Apoyo Básico"
+          },
+          "secure": {
+            "title": "Arranque Seguro"
+          }
+        },
+        "auth": {
+          "required": "Se requiere autenticación",
+          "description": "Inicia sesión para ver y seguir tus solicitudes Oficializa-te."
+        },
+        "statusList": {
+          "title": "Tus compras",
+          "empty": {
+            "title": "Aún no has comprado un paquete",
+            "subtitle": "Elige una opción para comenzar Oficializa-te."
+          },
+          "assigned": "Especialista asignado: {adminId}",
+          "updated": "Última actualización: {timestamp}",
+          "support": "Contactar soporte",
+          "error": "No se pudieron cargar los servicios: {message}"
+        },
+        "oficializaTe": {
+          "appBarTitle": "🏛️ Hazte oficial",
+          "header": {
+            "title": "Hazte autónomo",
+            "subtitle": "Regístrate oficialmente como profesional de limpieza autónomo",
+            "benefitsTitle": "✅ Ventajas de registrarte oficialmente:",
+            "benefits": {
+              "legal": "• Trabaja de forma legal y segura",
+              "social": "• Accede a sanidad y seguridad social",
+              "receipts": "• Emite recibos verdes oficiales",
+              "protection": "• Protección legal para ti y tus clientes",
+              "credibility": "• Mayor credibilidad en el mercado"
+            }
+          },
+          "packages": {
+            "heading": "Elige tu plan de apoyo:",
+            "recommendedRibbon": "RECOMENDADO",
+            "paymentNote": "pago único",
+            "includesTitle": "Incluye:",
+            "processing": "Procesando...",
+            "buyNowLabel": "Comprar ahora – €{price}",
+            "basic": {
+              "title": "Guía Esencial",
+              "subtitle": "Orientación clave",
+              "description": "Acompañamiento paso a paso para registrarte como autónomo. Incluye checklist interactiva y soporte online.",
+              "features": {
+                "checklist": "Checklist digital en la app",
+                "remoteSupport": "1h de soporte remoto (video/teléfono)",
+                "guide": "Guía PDF con capturas de pantalla",
+                "preparation": "Preparación para la cita en la Loja do Cidadão"
+              }
+            },
+            "secure": {
+              "title": "Lanzamiento Seguro",
+              "subtitle": "Acompañamiento completo",
+              "description": "Soporte práctico desde el registro hasta tus primeros trabajos como profesional independiente. Incluye asistencia presencial y seguimiento.",
+              "features": {
+                "includesBasic": "Todo lo de \"Guía Esencial\"",
+                "inPerson": "Acompañamiento presencial/llamada (hasta 2h)",
+                "followUp": "30 días de seguimiento",
+                "taxSupport": "Ayuda con recibos verdes y declaración trimestral",
+                "directChat": "Canal directo por WhatsApp/chat"
+              }
+            }
+          },
+          "legal": {
+            "title": "Aviso legal importante",
+            "body": "Brivida no es una asesoría fiscal certificada y no presta asesoramiento tributario en sentido legal. Nuestro servicio ofrece acompañamiento organizativo durante tu registro oficial como autónomo. Todas las gestiones las realizas tú con tu Chave Móvel Digital.",
+            "disclaimer": "Para dudas fiscales complejas, consulta con una asesoría certificada."
+          },
+          "faq": {
+            "title": "Preguntas frecuentes",
+            "items": {
+              "duration": {
+                "question": "¿Cuánto tarda el proceso?",
+                "answer": "Normalmente 1–2 semanas, según la disponibilidad de la Loja do Cidadão y la complejidad del caso."
+              },
+              "digitalKey": {
+                "question": "¿Necesito la Chave Móvel Digital?",
+                "answer": "Sí, es necesaria para todos los procesos online. Si aún no la tienes, te guiamos para conseguirla."
+              },
+              "documents": {
+                "question": "¿Qué documentos necesito?",
+                "answer": "Documento de identidad/pasaporte, comprobante de domicilio, IBAN y, según el caso, otros documentos específicos."
+              },
+              "refund": {
+                "question": "¿Puedo cancelar o pedir reembolso?",
+                "answer": "Puedes cancelar antes de que inicie el acompañamiento. Una vez empezado, no hay reembolsos."
+              }
+            },
+            "supportCta": "Hablar con soporte"
+          },
+          "checkout": {
+            "openFailed": "No se pudo abrir el checkout",
+            "error": "Error en el pago: {message}",
+            "confirmTitle": "Confirmar compra – {package}",
+            "confirmBody": "¿Seguro que quieres comprar el paquete \"{package}\" por €{price}?",
+            "afterPaymentTitle": "Después del pago:",
+            "steps": {
+              "contact": "Un administrador de Brivida se pondrá en contacto contigo",
+              "instructions": "Recibirás instrucciones detalladas",
+              "start": "El acompañamiento comenzará en breve"
+            },
+            "reminder": "Recuerda: Brivida ofrece acompañamiento organizativo, no asesoría fiscal certificada.",
+            "cancel": "Cancelar",
+            "confirm": "Confirmar compra"
+          },
+          "support": {
+            "dialogTitle": "Contactar soporte",
+            "intro": "Puedes escribirnos por:",
+            "email": "support@brivida.com",
+            "chat": "Chat en la app (próximamente)",
+            "close": "Cerrar"
+          }
+        }
+      },
+      "label": "Busco limpieza recurrente"
+    },
+    "extras": {
+      "title": "Extras",
+      "laundry": "Lavandería",
+      "ironing": "Plancha (piezas grandes)",
+      "windows": "Ventanas dentro y fuera"
+    },
+    "hourlyRate": {
+      "label": "Tarifa por hora (EUR)"
+    },
+    "actions": {
+      "search": "Buscar ofertas",
+      "sendRequest": "Enviar solicitud",
+      "requestOffer": "Solicitar oferta"
+    },
+    "feedback": {
+      "requestSent": "¡Solicitud enviada!",
+      "requestError": "Error: {code}",
+      "addressRequired": "Completa la dirección antes de solicitar",
+      "hourlyInvalid": "Revisa la tarifa por hora."
+    },
+    "searchError": "Error en la búsqueda: {code}",
+    "results": {
+      "title": "Ofertas encontradas ({count})",
+      "distance": "Distancia: {km} km",
+      "pro": "Profesional: {name}",
+      "rating": "Valoración: {rating} ⭐",
+      "window": "Franja horaria {from} – {to}",
+      "duration": "{hours} h solicitadas",
+      "recurring": "Recurrente",
+      "note": {
+        "title": "Mensaje para {name}",
+        "label": "Mensaje opcional",
+        "hint": "Ej. mascotas, necesidades especiales..."
+      }
+    }
+  },
+  "offerSearch": {
+    "pageTitle": "Buscar ofertas disponibles",
+    "filters": {
+      "date": "Fecha",
+      "time": "Hora",
+      "address": {
+        "label": "Dirección",
+        "hint": "¿Dónde debe realizarse el servicio?"
+      },
+      "duration": "Duración ({hours} h)",
+    "radius": "Radio ({km} km)",
+    "recurring": "Busco limpieza recurrente",
+    "extras": "Servicios extra",
+    "search": "Buscar ofertas"
+    },
+    "location": {
+      "title": "Ubicación exacta",
+      "helper": "Busca la dirección completa para verla en el mapa.",
+      "placeholder": "Todavía no hay ubicación seleccionada",
+      "select": "Buscar dirección",
+      "change": "Cambiar dirección",
+      "coordinates": "Coordenadas: {lat}, {lng}",
+      "mapCaption": "Toca o mantén pulsado el mapa para colocar un pin en la ubicación.",
+      "confirm": "Usar esta ubicación",
+      "dialog": {
+        "title": "Buscar dirección",
+        "addressLabel": "Dirección",
+        "addressHint": "p. ej. Rua Imperatriz D. Amélia 72, Funchal",
+        "search": "Encontrar dirección",
+        "searching": "Buscando dirección…",
+        "noResults": "No se encontró ninguna dirección. Ajusta y vuelve a intentar.",
+        "addressRequired": "Introduce una dirección."
+      }
+    },
+    "extras": {
+      "laundry": "Lavandería",
+      "ironing": "Plancha (piezas grandes)",
+      "windows": "Ventanas dentro y fuera"
+    },
+    "validation": {
+      "address": "Introduce una dirección.",
+      "location": "Selecciona la ubicación en el mapa."
+    },
+    "results": {
+      "title": "Ofertas encontradas ({count})",
+      "distance": "Distancia: {km} km",
+      "pro": "Profesional: {name}",
+      "rating": "Valoración: {rating} ⭐",
+      "window": "Franja horaria {from} – {to}",
+      "durationChip": "Solicitar {hours} h",
+      "recurringChip": "Recurrente",
+      "cta": "Enviar solicitud",
+      "noteTitle": "Mensaje para {name}",
+      "noteLabel": "Mensaje opcional",
+      "noteHint": "Ej. mascotas, necesidades especiales...",
+      "submit": "Enviar solicitud"
+    },
+    "messages": {
+      "requestSent": "¡Solicitud enviada!",
+      "requestError": "Error: {code}",
+      "addressRequired": "Completa la dirección antes de enviar la solicitud.",
+      "locationRequired": "Selecciona la ubicación antes de enviar la solicitud.",
+      "searchError": "Error en la búsqueda: {code}"
+    }
+  },
+  "proOffers": {
+    "pageTitle": "Mis ofertas",
+    "newOffer": "Nueva oferta",
+    "empty": {
+      "title": "Aún no tienes ofertas",
+      "subtitle": "Configura tu disponibilidad para llegar a nuevos clientes.",
+      "cta": "Crear oferta"
+    },
+    "error": {
+      "loadFailed": "No pudimos cargar tus ofertas."
+    },
+    "summary": {
+      "total": "{count} ofertas en total",
+      "active": "{count} activas",
+      "inactive": "{count} en pausa"
+    },
+    "card": {
+      "weekdayCount": "{count} días",
+      "timeRange": "{from} – {to}",
+      "radius": "Radio {km} km",
+      "recurring": "Clientes recurrentes",
+      "edit": "Editar"
+    },
+    "messages": {
+      "toggleFailed": "No se pudo actualizar el estado.",
+      "deleteFailed": "No se pudo eliminar la oferta."
+    },
+    "extras": {
+      "laundry": "Lavandería",
+      "ironing": "Plancha (piezas grandes)",
+      "windows": "Ventanas interior y exterior"
+    },
+    "dialog": {
+      "deleteTitle": "¿Eliminar oferta?",
+      "deleteBody": "\"{title}\" se eliminará permanentemente."
+    },
+    "editor": {
+      "createTitle": "Crear oferta",
+      "editTitle": "Editar oferta",
+      "fields": {
+        "title": {
+          "label": "Título",
+          "hint": "p. ej. oferta centro"
+        },
+        "notes": {
+          "label": "Notas",
+          "hint": "Mensaje opcional para clientes"
+        }
+      },
+      "weekdays": "Días de la semana",
+      "timeFrom": "Desde",
+      "timeTo": "Hasta",
+      "hoursOption": "{hours} h",
+      "minHours": "Horas mínimas",
+      "maxHours": "Horas máximas",
+      "recurring": {
+        "title": "Aceptar clientes recurrentes",
+        "subtitle": "por ejemplo limpiezas semanales"
+      },
+  "extras": "Extras",
+  "extrasLaundry": "Lavandería",
+  "extrasIroning": "Plancha (piezas grandes)",
+  "extrasWindows": "Ventanas interior y exterior",
+      "radius": {
+        "title": "Radio de servicio",
+        "value": "Radio: {km} km"
+      },
+      "location": {
+        "title": "Ubicación del servicio",
+        "placeholder": "Sin ubicación seleccionada",
+        "helper": "Elige el área donde puedes aceptar trabajos.",
+        "select": "Seleccionar ubicación",
+        "change": "Cambiar ubicación",
+        "selected": "Dirección seleccionada: {address}",
+        "coordinates": "Coordenadas: {lat}, {lng}",
+  "mapCaption": "Vista previa interactiva de Google Maps de tu zona de servicio.",
+        "mapError": "Vista previa del mapa no disponible.",
+        "dialog": {
+          "title": "Buscar dirección",
+          "addressLabel": "Dirección",
+          "addressHint": "p. ej. Plaza Mayor, Madrid",
+          "search": "Encontrar dirección",
+          "searching": "Buscando dirección…",
+          "noResults": "No se encontró ninguna dirección. Ajusta y vuelve a intentar."
+        }
+      },
+      "submitCreate": "Crear oferta",
+      "submitUpdate": "Guardar cambios",
+      "successCreate": "¡Oferta creada!",
+      "successUpdate": "Oferta actualizada.",
+      "errors": {
+        "titleRequired": "Introduce un título.",
+        "titleTooShort": "El título es demasiado corto.",
+        "weekdaysRequired": "Selecciona al menos un día.",
+        "timeOrder": "La hora de fin debe ser posterior al inicio.",
+        "hoursRange": "Ajusta las horas mínimas y máximas.",
+        "radius": "Elige un radio entre 5 y 50 km.",
+        "addressRequired": "Introduce una dirección.",
+        "locationMissing": "Elige una ubicación para tu oferta.",
+        "validation": "Error de validación: {code}",
+        "saveFailed": "No se pudo guardar la oferta. Inténtalo de nuevo."
+      }
+    }
+  },
+    "reviews": {
+      "submission": {
+        "title": "Enviar reseña",
+        "for": "Para: {name}",
+        "ratingPrompt": "¿Qué tan satisfecho estás?",
+        "missingRating": "Selecciona una valoración de estrellas",
+        "commentLabel": "Comentario (opcional)",
+        "commentHint": "Comparte tu experiencia...",
+        "commentValidation": "El comentario puede tener como máximo 500 caracteres",
+        "submit": "Enviar reseña",
+        "success": "Reseña para {name} enviada",
+        "error": "No pudimos enviar la reseña: {error}",
+        "ratingText": {
+          "1": "Muy insatisfecho",
+          "2": "Insatisfecho",
+          "3": "Neutral",
+          "4": "Satisfecho",
+          "5": "Muy satisfecho"
+        }
+      },
+      "buttons": {
+        "review": "Reseñar",
+        "reviewed": "Reseñado"
+      },
+      "card": {
+        "proInfo": "Reseña para el profesional: {name}",
+        "time": {
+          "now": "Ahora",
+          "minutes": "{count} min",
+          "hours": "{count} h",
+          "days": "{count} d"
+        }
+      },
+      "moderation": {
+        "status": {
+          "visible": "Visible",
+          "hidden": "Oculta",
+          "flagged": "Marcada"
+        },
+        "reasonLabel": "Motivo: {reason}",
+        "menu": {
+          "makeVisible": "Hacer visible",
+          "hide": "Ocultar",
+          "flag": "Marcar como problemática"
+        },
+        "dialogs": {
+          "hide": {
+            "title": "Ocultar reseña",
+            "body": "¿Seguro que deseas ocultar esta reseña? Será invisible para todos los usuarios e impactará la valoración del profesional.",
+            "confirm": "Ocultar"
+          },
+          "reason": {
+            "title": "Indica el motivo",
+            "label": "Motivo",
+            "hint": "Añade un motivo breve",
+            "confirm": "Confirmar"
+          }
+        },
+        "snackbar": {
+          "success": "La reseña quedó {status}",
+          "error": "Error al moderar: {error}"
+        }
+      },
+      "list": {
+        "loadingError": "No pudimos cargar las reseñas: {error}",
+        "empty": {
+          "title": "Aún no hay reseñas",
+          "subtitle": "¡Sé la primera persona en valorar a este profesional!"
+        },
+        "noneFound": "No se encontraron reseñas"
+      },
+      "proRating": {
+        "heading": "Reseñas ({count})",
+        "sectionTitle": "Reseñas",
+        "showAll": "Ver las {count} reseñas",
+        "showMore": "Ver {count} reseñas más",
+        "error": "No pudimos cargar las reseñas",
+        "allTitle": "Todas las reseñas",
+        "aggregateCount": {
+          "one": "{count} reseña",
+          "other": "{count} reseñas"
+        },
+        "compactNone": "Sin reseñas"
+      },
+      "breakdown": {
+        "empty": "Aún no hay reseñas"
+      }
+    },
+  "adminServices": {
+    "banner": {
+      "title": "Trabaja de forma legal y segura",
+      "subtitle": "Compra el paquete Oficializa-te y recibe acompañamiento paso a paso",
+      "cta": "Comenzar Oficializa-te",
+      "statusTitle": "Estado de tu proceso",
+      "manage": "Gestionar",
+      "updated": "Actualizado {date}",
+      "help": "¿Necesitas ayuda? Respondemos en menos de 24 h laborables."
+    },
+    "status": {
+      "pendingPayment": "Pago pendiente",
+      "pending": "En revisión",
+      "assigned": "Especialista asignado",
+      "completed": "Completado",
+      "cancelled": "Cancelado"
+    },
+    "package": {
+      "basic": {
+        "title": "Apoyo Básico"
+      },
+      "secure": {
+        "title": "Arranque Seguro"
+      }
+    },
+    "auth": {
+      "required": "Se requiere autenticación",
+      "description": "Inicia sesión para ver y seguir tus solicitudes Oficializa-te."
+    },
+    "statusList": {
+      "title": "Tus compras",
+      "empty": {
+        "title": "Aún no has comprado un paquete",
+        "subtitle": "Elige una opción para comenzar Oficializa-te."
+      },
+      "assigned": "Especialista asignado: {adminId}",
+      "updated": "Última actualización: {timestamp}",
+      "support": "Contactar soporte",
+      "error": "No se pudieron cargar los servicios: {message}"
+    },
+    "oficializaTe": {
+      "appBarTitle": "🏛️ Hazte oficial",
+      "header": {
+        "title": "Hazte autónomo",
+        "subtitle": "Regístrate oficialmente como profesional de limpieza autónomo",
+        "benefitsTitle": "✅ Ventajas de registrarte oficialmente:",
+        "benefits": {
+          "legal": "• Trabaja de forma legal y segura",
+          "social": "• Accede a sanidad y seguridad social",
+          "receipts": "• Emite recibos verdes oficiales",
+          "protection": "• Protección legal para ti y tus clientes",
+          "credibility": "• Mayor credibilidad en el mercado"
+        }
+      },
+      "packages": {
+        "heading": "Elige tu plan de apoyo:",
+        "recommendedRibbon": "RECOMENDADO",
+        "paymentNote": "pago único",
+        "includesTitle": "Incluye:",
+        "processing": "Procesando...",
+        "buyNowLabel": "Comprar ahora – €{price}",
+        "basic": {
+          "title": "Guía Esencial",
+          "subtitle": "Orientación clave",
+          "description": "Acompañamiento paso a paso para registrarte como autónomo. Incluye checklist interactiva y soporte online.",
+          "features": {
+            "checklist": "Checklist digital en la app",
+            "remoteSupport": "1h de soporte remoto (video/teléfono)",
+            "guide": "Guía PDF con capturas de pantalla",
+            "preparation": "Preparación para la cita en la Loja do Cidadão"
+          }
+        },
+        "secure": {
+          "title": "Lanzamiento Seguro",
+          "subtitle": "Acompañamiento completo",
+          "description": "Soporte práctico desde el registro hasta tus primeros trabajos como profesional independiente. Incluye asistencia presencial y seguimiento.",
+          "features": {
+            "includesBasic": "Todo lo de \"Guía Esencial\"",
+            "inPerson": "Acompañamiento presencial/llamada (hasta 2h)",
+            "followUp": "30 días de seguimiento",
+            "taxSupport": "Ayuda con recibos verdes y declaración trimestral",
+            "directChat": "Canal directo por WhatsApp/chat"
+          }
+        }
+      },
+      "legal": {
+        "title": "Aviso legal importante",
+        "body": "Brivida no es una asesoría fiscal certificada y no presta asesoramiento tributario en sentido legal. Nuestro servicio ofrece acompañamiento organizativo durante tu registro oficial como autónomo. Todas las gestiones las realizas tú con tu Chave Móvel Digital.",
+        "disclaimer": "Para dudas fiscales complejas, consulta con una asesoría certificada."
+      },
+      "faq": {
+        "title": "Preguntas frecuentes",
+        "items": {
+          "duration": {
+            "question": "¿Cuánto tarda el proceso?",
+            "answer": "Normalmente 1–2 semanas, según la disponibilidad de la Loja do Cidadão y la complejidad del caso."
+          },
+          "digitalKey": {
+            "question": "¿Necesito la Chave Móvel Digital?",
+            "answer": "Sí, es necesaria para todos los procesos online. Si aún no la tienes, te guiamos para conseguirla."
+          },
+          "documents": {
+            "question": "¿Qué documentos necesito?",
+            "answer": "Documento de identidad/pasaporte, comprobante de domicilio, IBAN y, según el caso, otros documentos específicos."
+          },
+          "refund": {
+            "question": "¿Puedo cancelar o pedir reembolso?",
+            "answer": "Puedes cancelar antes de que inicie el acompañamiento. Una vez empezado, no hay reembolsos."
+          }
+        },
+        "supportCta": "Hablar con soporte"
+      },
+      "checkout": {
+        "openFailed": "No se pudo abrir el checkout",
+        "error": "Error en el pago: {message}",
+        "confirmTitle": "Confirmar compra – {package}",
+        "confirmBody": "¿Seguro que quieres comprar el paquete \"{package}\" por €{price}?",
+        "afterPaymentTitle": "Después del pago:",
+        "steps": {
+          "contact": "Un administrador de Brivida se pondrá en contacto contigo",
+          "instructions": "Recibirás instrucciones detalladas",
+          "start": "El acompañamiento comenzará en breve"
+        },
+        "reminder": "Recuerda: Brivida ofrece acompañamiento organizativo, no asesoría fiscal certificada.",
+        "cancel": "Cancelar",
+        "confirm": "Confirmar compra"
+      },
+      "support": {
+        "dialogTitle": "Contactar soporte",
+        "intro": "Puedes escribirnos por:",
+        "email": "support@brivida.com",
+        "chat": "Chat en la app (próximamente)",
+        "close": "Cerrar"
+      }
+    }
+  },
+  "notifications": {
+    "type": {
+      "leadNew": "Nueva solicitud",
+      "leadAccepted": "Solicitud aceptada",
+      "leadDeclined": "Solicitud rechazada",
+      "jobAssigned": "Trabajo asignado",
+      "jobChanged": "Trabajo actualizado",
+      "jobCancelled": "Trabajo cancelado",
+      "reminder24h": "Recordatorio 24h",
+      "reminder1h": "Recordatorio 1h",
+      "paymentCaptured": "Pago confirmado",
+      "paymentReleased": "Pago liberado",
+      "paymentRefunded": "Pago reembolsado",
+      "disputeOpened": "Disputa abierta",
+      "disputeResponse": "Respuesta a la disputa",
+      "disputeDecision": "Decisión de la disputa",
+      "chatMessage": "Nuevo mensaje"
+    },
+    "push": {
+      "fallback": {
+        "title": "Notificación",
+        "body": "Tienes una nueva notificación."
+      },
+      "lead": {
+        "new": {
+          "title": "Nueva solicitud disponible",
+          "body": "Solicitud de limpieza cerca de {city}"
+        },
+        "accepted": {
+          "title": "Solicitud aceptada",
+          "body": "Un profesional aceptó tu solicitud."
+        },
+        "declined": {
+          "title": "Solicitud rechazada",
+          "body": "Un profesional rechazó tu solicitud."
+        }
+      },
+      "job": {
+        "assigned": {
+          "customer": {
+            "title": "Reserva confirmada",
+            "body": "Tu limpieza está programada para {date}."
+          },
+          "pro": {
+            "title": "Nueva reserva",
+            "body": "Tienes un nuevo trabajo el {date}."
+          }
+        },
+        "changed": {
+          "title": "Reserva actualizada",
+          "body": "Detalles actualizados: {changes}"
+        },
+        "cancelled": {
+          "title": "Reserva cancelada",
+          "body": "Tu reserva fue cancelada."
+        },
+        "reminder24h": {
+          "customer": {
+            "title": "Recordatorio: limpieza mañana",
+            "body": "Tu limpieza es mañana a las {time}."
+          },
+          "pro": {
+            "title": "Recordatorio: trabajo mañana",
+            "body": "Tienes un trabajo mañana a las {time}."
+          }
+        },
+        "reminder1h": {
+          "customer": {
+            "title": "Recordatorio: limpieza en 1 hora",
+            "body": "Tu limpieza empieza en aproximadamente 1 hora."
+          },
+          "pro": {
+            "title": "Recordatorio: trabajo en 1 hora",
+            "body": "Tu trabajo empieza en aproximadamente 1 hora."
+          }
+        }
+      },
+      "payment": {
+        "captured": {
+          "title": "Pago recibido",
+          "body": "Registramos tu pago de {amount}."
+        },
+        "released": {
+          "title": "Pago liberado",
+          "body": "Se liberó tu pago de {amount}."
+        },
+        "refunded": {
+          "title": "Pago reembolsado",
+          "body": "Reembolsamos {amount}."
+        }
+      },
+      "dispute": {
+        "opened": {
+          "title": "Disputa abierta",
+          "body": "Se abrió una disputa para tu reserva."
+        },
+        "response": {
+          "title": "Nueva respuesta en la disputa",
+          "body": "Hay una nueva respuesta en tu disputa."
+        },
+        "decision": {
+          "title": "Disputa resuelta",
+          "body": "Se tomó una decisión en tu disputa."
+        }
+      },
+      "chat": {
+        "newMessage": {
+          "title": "Nuevo mensaje",
+          "body": "Has recibido un nuevo mensaje."
+        }
+      }
+    }
+  },
+  "home": {
+    "title": "Inicio",
+    "welcome": "¡Bienvenido a Brivida!",
+    "loggedInAs": "Conectado como: {user}",
+    "emailNotVerified": "Verifica tu correo electrónico para acceder a todas las funciones.",
+    "emailVerified": "¡Tu correo está verificado! Ya puedes disfrutar de todo.",
+    "comingSoon": "Próximamente: publicar trabajos, conectar con profesionales de limpieza y gestionar pagos seguros desde la app.",
+    "features": {
+      "title": "Funciones destacadas",
+      "sections": {
+        "customers": "Para clientes",
+        "pros": "Para profesionales",
+        "shared": "Para todos"
+      },
+      "createJob": {
+        "title": "Crear trabajo",
+        "subtitle": "Publica una solicitud de limpieza en minutos"
+      },
+      "myJobs": {
+        "title": "Mis trabajos",
+        "subtitle": "Revisa y gestiona los trabajos publicados"
+      },
+      "offerSearch": {
+        "title": "Buscar ofertas",
+        "subtitle": "Descubre profesionales disponibles cerca de ti"
+      },
+      "jobFeed": {
+        "title": "Feed de trabajos",
+        "subtitle": "Explora solicitudes de clientes que encajan contigo"
+      },
+      "finance": {
+        "title": "Finanzas",
+        "subtitle": "Sigue tus pagos y saldo"
+      },
+      "myLeads": {
+        "title": "Mis solicitudes",
+        "subtitle": "Gestiona las solicitudes entrantes de clientes"
+      },
+      "proOffers": {
+        "title": "Mis ofertas",
+        "subtitle": "Administra los servicios que ofreces"
+      },
+      "chats": {
+        "title": "Mensajes",
+        "subtitle": "Habla con clientes y profesionales"
+      },
+      "calendar": {
+        "title": "Calendario",
+        "subtitle": "Organiza citas y disponibilidad"
+      },
+      "settings": {
+        "title": "Configuración",
+        "subtitle": "Actualiza tu perfil y preferencias"
+      },
+      "legal": {
+        "terms": {
+          "title": "Términos y condiciones",
+          "subtitle": "Consulta las condiciones de la plataforma"
+        },
+        "privacy": {
+          "title": "Política de privacidad",
+          "subtitle": "Conoce cómo tratamos tus datos"
+        },
+        "imprint": {
+          "title": "Aviso legal",
+          "subtitle": "Información legal sobre Brivida"
+        }
+      },
+      "admin": {
+        "dashboard": {
+          "title": "Panel de administración",
+          "subtitle": "Supervisa la salud y operaciones de la plataforma"
+        }
+      }
+    }
+  },
+  "finance": {
+    "overview": {
+      "title": "Resumen financiero",
+      "period": "Últimos 30 días",
+      "viewPayouts": "Ir a pagos",
+      "metrics": {
+        "totalNet": "Neto pagado",
+        "pendingNet": "Pendiente",
+        "completed": "Completado",
+        "failed": "Fallido"
+      },
+      "highlights": {
+        "title": "Destacados",
+        "lastPayout": "Último pago",
+        "nextPayout": "Próximo pago"
+      },
+      "recent": {
+        "title": "Pagos recientes",
+        "seeAll": "Ver todos",
+        "unknownDate": "Fecha desconocida",
+        "emptyTitle": "Aún no hay pagos",
+        "emptySubtitle": "Cuando se procesen tus pagos aparecerán aquí."
+      },
+      "status": {
+        "completed": "Completado",
+        "pending": "Pendiente",
+        "failed": "Fallido"
+      },
+      "error": {
+        "generic": "Error al cargar el resumen",
+        "retry": "Intentar de nuevo"
+      }
+    },
+    "page": {
+      "title": "Finanzas",
+      "sections": {
+        "actions": "Acciones rápidas",
+        "recent": "Pagos recientes"
+      },
+      "actions": {
+        "openPayouts": "Ver historial de pagos",
+        "openPayoutsSubtitle": "Revisa todos los pagos y su estado",
+        "downloadStatement": "Descargar informe mensual",
+        "downloadStatementSubtitle": "Exportación CSV de tus pagos recientes",
+        "downloadStatementComingSoon": "Exportación disponible pronto.",
+        "downloadStatementPreparing": "Preparando la exportación...",
+        "downloadStatementSuccess": "CSV financiero listo.",
+        "downloadStatementError": "No pudimos generar la exportación financiera. Inténtalo de nuevo.",
+        "downloadStatementOptionsTitle": "Descargar informe financiero",
+        "downloadStatementOptionsSubtitle": "Archivo: {filename}",
+        "downloadStatementOptionOpen": "Abrir en el navegador",
+        "downloadStatementOptionCopy": "Copiar enlace de descarga",
+        "downloadStatementOptionCopied": "Enlace de descarga copiado al portapapeles.",
+        "downloadStatementOptionLaunchError": "No se pudo abrir el enlace de descarga.",
+        "downloadStatementOptionExpires": "El enlace caduca el {date}",
+        "contactSupport": "Contactar soporte financiero",
+        "contactSupportSubtitle": "Te ayudamos con dudas sobre pagos",
+        "contactSupportComingSoon": "Canal de soporte disponible pronto.",
+        "contactSupportSubject": "Solicitud de soporte financiero",
+        "contactSupportEmailBody": "Hola equipo financiero de Brivida,\n\nNecesito ayuda con ...\n\nGracias.",
+        "contactSupportLaunchSuccess": "Abrimos tu aplicación de correo. Describe el problema y envía el mensaje.",
+        "contactSupportLaunchError": "No se pudo abrir la aplicación de correo.",
+        "contactSupportDialogTitle": "Contactar soporte financiero",
+        "contactSupportDialogBody": "Envíanos un correo para que el equipo financiero pueda ayudarte:",
+        "contactSupportDialogOpen": "Abrir aplicación de correo",
+        "contactSupportDialogCopy": "Copiar dirección de correo",
+        "contactSupportDialogCopied": "Correo de soporte copiado al portapapeles."
+      },
+      "recent": {
+        "statusLabel": "Estado: {status}"
+      },
+      "empty": {
+        "title": "Aún no hay pagos",
+        "subtitle": "Cuando lleguen tus primeros pagos, los verás aquí."
+      }
+    }
+  },
+  "errors": {
+    "emailRequired": "El correo electrónico es obligatorio",
+    "invalidEmail": "Por favor, introduce una dirección de correo electrónico válida",
+    "passwordRequired": "La contraseña es obligatoria",
+    "passwordTooShort": "La contraseña debe tener al menos 6 caracteres",
+    "passwordsNotMatch": "Las contraseñas no coinciden",
+    "confirmPasswordRequired": "Por favor, confirma tu contraseña",
+    "fieldRequired": "Este campo es obligatorio",
+    "generic": "Ha ocurrido un error. Por favor, inténtalo de nuevo.",
+    "geocodeFailed": "No se pudo encontrar la dirección",
+    "locationUnavailable": "Servicio de ubicación no disponible",
+    "etaFailed": "No se pudo calcular el tiempo de viaje. Por favor, inténtalo de nuevo.",
+    "addressRequired": "La dirección es obligatoria"
+  },
+  "job": {
+    "newTitle": "Nuevo Trabajo",
+    "createSuccess": "¡Trabajo creado exitosamente!",
+    "new": {
+      "title": "Crear Nuevo Trabajo"
+    },
+    "create": {
+      "success": "Trabajo creado exitosamente"
+    },
+    "status": {
+      "open": "Abierto",
+      "assigned": "Asignado",
+      "completed": "Completado",
+      "cancelled": "Cancelado"
+    },
+    "list": {
+      "title": "Mis Trabajos"
+    },
+    "detail": {
+      "title": "Detalles del Trabajo",
+      "overview": "Resumen del Trabajo",
+      "size": "Tamaño",
+      "rooms": "Habitaciones",
+      "budget": "Presupuesto",
+      "status": "Estado",
+      "services": "Servicios",
+      "notes": "Notas",
+      "notFound": "Trabajo no encontrado",
+      "error": "Error"
+    },
+    "form": {
+      "address": "Dirección",
+      "addressHint": "Ingrese la dirección completa",
+      "city": "Ciudad",
+      "district": "Distrito",
+      "hint": "Pista de ubicación",
+      "doorcode": "Código de entrada",
+      "doorcodeHint": "Código de puerta, información del timbre, instrucciones de estacionamiento..."
+    },
+    "map": {
+      "title": "Ubicación del Trabajo",
+      "location": "Detalles de ubicación",
+      "navigate": "Iniciar Navegación",
+      "eta": "Calcular Tiempo de Viaje",
+      "doorcode": "Notas de Entrada",
+      "copyAddress": "Copiar dirección",
+      "addressCopied": "Dirección copiada al portapapeles",
+      "notAuthorized": "No autorizado para ver la ubicación exacta",
+      "loading": "Cargando mapa...",
+      "calculating": "Calculando...",
+      "etaResult": "{minutes} min ({distance})"
+    }
+  },
+  "jobCompletion": {
+    "title": "Finalización del trabajo",
+    "roleWarning": "No tienes permiso para ver esta finalización.",
+    "summary": {
+      "title": "Resumen",
+      "status": "Estado",
+      "budget": "Importe total",
+      "schedule": "Horario",
+      "city": "Ciudad"
+    },
+    "payment": {
+      "title": "Pago",
+      "pendingRelease": "Los fondos están en fideicomiso y se liberarán tras la aprobación o pasadas 24 horas.",
+      "released": "El pago ya se liberó al profesional.",
+      "pendingCapture": "El pago está pendiente de autorización.",
+      "notAvailable": "No hay información de pago para este trabajo."
+    },
+    "pro": {
+      "shortDescription": "Completa la checklist, añade fotos y envía el informe.",
+      "checklist": {
+        "title": "Lista de verificación",
+        "empty": "No hay checklist disponible para este trabajo."
+      },
+      "photos": {
+        "title": "Fotos",
+        "add": "Añadir foto"
+      },
+      "note": {
+        "title": "Notas para el cliente",
+        "hint": "Comparte cualquier detalle que el cliente deba conocer."
+      },
+      "submit": "Enviar finalización",
+      "waitingApproval": {
+        "title": "Esperando la aprobación del cliente",
+        "body": "Te avisaremos cuando el cliente revise la finalización."
+      }
+    },
+    "customer": {
+      "shortDescription": "Revisa el informe, apruébalo o abre una disputa.",
+      "waiting": {
+        "title": "Finalización pendiente",
+        "body": "El profesional todavía no ha enviado el informe de finalización."
+      },
+      "submission": {
+        "title": "Detalles de la finalización"
+      },
+      "photos": {
+        "title": "Fotos"
+      },
+      "note": {
+        "title": "Nota del profesional",
+        "empty": "No se añadió ninguna nota."
+      },
+      "approve": "Aprobar finalización",
+      "dispute": "Informar un problema"
+    },
+    "success": {
+      "submit": "Finalización enviada para revisión.",
+      "approve": "Finalización aprobada. Liberaremos el pago."
+    },
+    "error": {
+      "generic": "Algo salió mal. Inténtalo de nuevo.",
+      "upload": "No se pudo subir la foto. Inténtalo de nuevo.",
+      "photoPicker": "No se pudo abrir la cámara.",
+      "photoUploading": "Espera a que terminen de cargarse todas las fotos.",
+      "submit": "No se pudo enviar la finalización. Inténtalo de nuevo.",
+      "approve": "No se pudo aprobar la finalización. Inténtalo de nuevo.",
+      "noJob": "Faltan los datos del trabajo."
+    }
+  },
+  "lead": {
+    "inbox": {
+      "title": "Mis solicitudes"
+    },
+    "create": "Crear solicitud",
+    "accept": "Aceptar",
+    "decline": "Rechazar",
+    "accepted": "Aceptada",
+    "declined": "Rechazada",
+    "feed": {
+      "title": "Feed de trabajos"
+    }
+  },
+  "leads": {
+    "feedTitle": "Trabajos Disponibles",
+    "noJobs": "No hay trabajos disponibles",
+    "noJobsSubtitle": "Vuelve más tarde para nuevas oportunidades",
+    "errorLoadingJobs": "Error al cargar trabajos",
+    "rooms": "habitaciones",
+    "statusOpen": "Abierto",
+    "notes": "Notas:",
+    "inboxTitle": "Bandeja de solicitudes",
+    "accept": "Aceptar",
+    "decline": "Rechazar",
+    "accepted": "Aceptado",
+    "declined": "Rechazado",
+    "applyForJob": "Aplicar al Trabajo",
+    "applying": "Aplicando...",
+    "applicationTitle": "Enviar Aplicación",
+    "applicationMessage": "Envía una aplicación para este trabajo de limpieza. Puedes incluir un mensaje para presentarte al cliente.",
+    "applicationMessageLabel": "Mensaje (opcional)",
+    "applicationHint": "¡Hola! Estoy interesado en este trabajo de limpieza...",
+    "cancel": "Cancelar",
+    "sendApplication": "Enviar Aplicación",
+    "applicationSent": "¡Aplicación enviada exitosamente!",
+    "applicationError": "Error al enviar aplicación",
+    "moreServices": "más",
+    "inboxEmptyTitle": "Sin solicitudes todavía",
+    "inboxEmptySubtitle": "Las nuevas solicitudes aparecerán aquí cuando los clientes se interesen por tus servicios.",
+    "inboxErrorTitle": "Error al cargar las solicitudes",
+    "inboxErrorDetails": "Detalles: {error}",
+    "cardTitle": "Solicitud de trabajo",
+    "cardJobId": "ID del trabajo: {id}",
+    "cardMessageLabel": "Mensaje:",
+    "viewJob": "Ver trabajo",
+    "snackbarAcceptSuccess": "¡Solicitud aceptada correctamente!",
+    "snackbarAcceptError": "Error al aceptar la solicitud: {error}",
+    "snackbarDeclineSuccess": "Solicitud rechazada",
+    "snackbarDeclineError": "Error al rechazar la solicitud: {error}",
+    "statusPending": "Pendiente",
+    "fallbackTitle": "Error en la bandeja de solicitudes",
+    "fallbackMessage": "No pudimos cargar la bandeja de solicitudes.",
+    "fallbackErrorPrefix": "Error: {error}"
+  },
+  "chat": {
+    "title": "Chat",
+    "listTitle": "Mis Chats",
+    "noChats": "Sin Chats",
+    "noChatsSubtitle": "Inicia un trabajo o aplica para comenzar a chatear",
+    "browseJobs": "Explorar Trabajos",
+    "jobTitle": "Trabajo #{0}",
+    "withUser": "Con {0}",
+    "loadError": "Error al cargar chats",
+    "noMessages": "Sin Mensajes",
+    "startConversation": "Inicia la conversación con un mensaje",
+    "typeMessage": "Escribir mensaje...",
+    "actions": {
+      "call": "Llamar"
+    },
+    "imageLoadError": "Error al cargar imagen",
+    "callUnavailable": "No pudimos abrir la app de teléfono en este dispositivo.",
+    "noPhone": "Aún no hay número disponible.",
+    "yesterday": "Ayer"
+  },
+  "calendar": {
+    "title": "Calendario",
+    "weekView": "Vista Semanal",
+    "monthView": "Vista Mensual",
+    "export": "Exportar Calendario",
+    "exportTitle": "Exportar Calendario",
+    "exportDescription": "Copie el siguiente enlace para importar su calendario a otras aplicaciones:",
+    "exportError": "Error al exportar: {error}",
+    "close": "Cerrar",
+    "noEventsToday": "No hay eventos en este día",
+    "selectDay": "Seleccione un día",
+    "loadError": "Error al cargar eventos: {error}",
+    "newEvent": "Nuevo Evento",
+    "editEvent": "Editar Evento",
+    "eventDetails": "Ver Detalles",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "create": "Crear",
+    "deleteConfirmTitle": "Eliminar Evento",
+    "deleteConfirmMessage": "¿Realmente desea eliminar este evento?",
+    "eventCreated": "Evento creado",
+    "eventUpdated": "Evento actualizado",
+    "eventDeleted": "Evento eliminado",
+    "deleteError": "Error al eliminar: {error}",
+    "eventTypes": {
+      "job": "Trabajo",
+      "private": "Evento Privado",
+      "availability": "Disponibilidad"
+    },
+    "form": {
+      "title": "Título",
+      "titleHint": "Introduce el título del evento",
+      "titleRequired": "Por favor ingresa un título",
+      "description": "Descripción (opcional)",
+      "descriptionHint": "Detalles adicionales...",
+      "eventType": "Tipo de evento",
+      "privateEvent": "Privado",
+      "availability": "Disponibilidad",
+      "dateTime": "Fecha y hora",
+      "date": "Fecha",
+      "from": "Desde",
+      "to": "Hasta",
+      "bufferSettings": "Tiempos de buffer (minutos)",
+      "bufferBefore": "Antes",
+      "bufferAfter": "Después",
+      "minutes": "Min",
+      "visibility": "Visibilidad",
+      "busy": "Ocupado",
+      "privateVisibility": "Privado",
+      "location": "Ubicación (opcional)",
+      "addLocation": "Agregar ubicación",
+      "enterLocation": "Ingresar ubicación",
+      "address": "Dirección",
+      "addressExample": "p. ej. Calle Ejemplo 123, 10115 Berlín",
+      "addressSearching": "Buscando dirección...",
+      "addressError": "Error al buscar dirección: {error}",
+      "latitude": "Latitud",
+      "longitude": "Longitud",
+      "add": "Agregar",
+      "endTimeError": "La hora de fin debe ser posterior a la hora de inicio"
+    },
+    "jobEvent": {
+      "title": "Cita de trabajo",
+      "readOnlyInfo": "Las citas de trabajo no se pueden editar directamente. Contacta al cliente para cambios de horario.",
+      "buffer": "Buffer: {before} min antes, {after} min después"
+    },
+    "conflicts": {
+      "blockingTitle": "Conflicto de agenda",
+      "warningTitle": "Revisa el horario",
+      "conflictingEvent": "Conflicta con “{title}”",
+      "untitledEvent": "Evento sin título",
+      "directOverlap": "El horario seleccionado se superpone con “{title}” ({time}). Ajusta la hora de inicio o fin.",
+      "insufficientGap": "No hay tiempo suficiente antes de “{title}” ({time}). Necesario: {required} min — disponible: {actual} min. Añade al menos {missing} minutos más.",
+      "softGap": "Solo {actual} minutos entre este evento y “{title}” ({time}). Considera ampliar el buffer o ajustar el horario.",
+      "etaFallback": "No se pudo confirmar el tiempo de traslado. Deja tiempo extra antes de “{title}”.",
+      "validationError": "No pudimos validar el horario. Inténtalo de nuevo.",
+      "unknown": "No se puede guardar este horario ahora. Ajusta el evento o inténtalo más tarde."
+    },
+    "errors": {
+      "authRequired": "Por favor inicia sesión para guardar eventos",
+      "authRequiredDelete": "Por favor inicia sesión para eliminar eventos",
+      "saveFailed": "No se pudo guardar el evento. ({error})"
+    }
+  },
+  "common": {
+    "retry": "Reintentar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "unknownEmail": "Usuario desconocido"
+  },
+  "language": {
+    "title": "Idioma",
+    "select": "Seleccionar idioma"
+  },
+  "footer": {
+    "legal": {
+      "terms": "Términos y Condiciones",
+      "privacy": "Política de Privacidad",
+      "imprint": "Aviso legal",
+      "viewer": {
+        "loading": "Cargando documento...",
+        "errorTitle": "Error al cargar",
+        "errorDetail": "Error al cargar: {error}",
+        "retry": "Intentar de nuevo",
+        "notFound": "Documento no encontrado"
+      },
+      "complianceGuard": {
+        "tagline": "Marketplace de servicios de limpieza",
+        "checking": "Comprobando requisitos legales...",
+        "pleaseWait": "Espera un momento, por favor."
+      }
+    }
+  },
+  "success": {
+    "saved": "Guardado correctamente"
+  },
+  "settings": {
+    "title": "Configuración",
+    "error": {
+      "generic": "Algo salió mal. Vuelve a intentarlo.",
+      "photoUpload": "No pudimos actualizar tu foto de perfil.",
+      "noProfile": "No pudimos cargar tu perfil."
+    },
+    "photo": {
+      "updated": "Foto de perfil actualizada."
+    },
+    "marketing": {
+      "updated": "Preferencias de marketing guardadas."
+    },
+    "sections": {
+      "profile": "Perfil",
+      "notifications": "Notificaciones",
+      "communication": "Comunicación",
+      "account": "Cuenta",
+      "legal": "Legal",
+      "dangerZone": "Zona de riesgo"
+    },
+    "profile": {
+      "displayName": "Nombre para mostrar",
+      "username": "Nombre de usuario",
+      "language": "Idioma de la app",
+      "memberSince": "Miembro desde {date}"
+    },
+    "username": {
+      "addPrompt": "Elegir nombre de usuario"
+    },
+    "language": {
+      "current": "Actual: {code}",
+      "system": "Usar el idioma del dispositivo",
+      "de": "Alemán",
+      "en": "Inglés",
+      "pt": "Portugués",
+      "es": "Español",
+      "fr": "Francés"
+    },
+    "notifications": {
+      "marketing": "Actualizaciones de marketing",
+      "marketingHint": "Recibe consejos, promociones y novedades."
+    },
+    "phone": {
+      "title": "Número de teléfono",
+      "subtitle": "Añade un número para que los matches verificados puedan contactarte rápidamente si es necesario.",
+      "call": "Llamar",
+      "callHint": "Llamar a {number}",
+      "callUnavailable": "Las llamadas telefónicas no están disponibles en este dispositivo.",
+      "updated": "Número de teléfono guardado.",
+      "removed": "Número de teléfono eliminado.",
+      "dialog": {
+        "title": "Número de teléfono",
+        "label": "Número de teléfono",
+        "hint": "+34123456789",
+        "helper": "Incluye el prefijo internacional, por ejemplo +34123456789.",
+        "cancel": "Cancelar",
+        "save": "Guardar",
+        "remove": "Eliminar número"
+      }
+    },
+    "logout": "Cerrar sesión",
+    "legal": {
+      "terms": "Términos y Condiciones",
+      "privacy": "Política de Privacidad",
+      "imprint": "Aviso legal",
+      "viewer": {
+        "loading": "Cargando documento...",
+        "errorTitle": "Error al cargar",
+        "errorDetail": "Error al cargar: {error}",
+        "retry": "Intentar de nuevo",
+        "notFound": "Documento no encontrado"
+      },
+      "complianceGuard": {
+        "tagline": "Marketplace de servicios de limpieza",
+        "checking": "Comprobando requisitos legales...",
+        "pleaseWait": "Espera un momento, por favor."
+      }
+    },
+    "delete": {
+      "title": "Eliminar cuenta",
+      "subtitle": "Tus datos se eliminarán de forma permanente.",
+      "warning": "La eliminación es definitiva. Cierra trabajos, pagos y disputas antes de continuar.",
+      "confirmLabel": "Confirmar correo electrónico",
+      "confirmHelper": "Introduce {email} para confirmar.",
+      "acknowledge": "Entiendo que esta acción no se puede deshacer.",
+      "confirmAction": "Eliminar cuenta permanentemente",
+      "confirmHint": "Introduce tu correo electrónico para continuar.",
+      "success": "Tu cuenta se eliminará y se cerrará la sesión.",
+      "bullet": {
+        "profile": "Se eliminará tu información de perfil y valoraciones.",
+        "jobs": "Se cancelarán los trabajos y leads abiertos.",
+        "credits": "Los créditos no utilizados caducarán.",
+        "payments": "Se borrará el historial de pagos y recibos."
+      }
+    },
+    "edit": {
+      "title": "Editar perfil",
+      "subtitle": "Actualiza cómo te ven los demás y ajusta tus preferencias.",
+      "displayName": {
+        "title": "Nombre para mostrar",
+        "label": "Nombre para mostrar",
+        "hint": "¿Cómo quieres que te vean los demás usuarios?",
+  "helper": "Coincide con tu nombre de usuario y se actualiza automáticamente.",
+        "action": "Guardar",
+        "required": "Introduce un nombre para mostrar.",
+        "success": "Nombre para mostrar guardado."
+      },
+      "username": {
+        "title": "Nombre de usuario",
+        "label": "Tu nombre de usuario",
+        "helper": "Letras minúsculas, números, guiones bajos o puntos. 3–20 caracteres.",
+        "action": "Reservar nombre de usuario",
+        "disclaimer": "Tu nombre de usuario es público y único.",
+        "required": "Introduce un nombre de usuario.",
+        "success": "Nombre de usuario actualizado.",
+        "snackbarSuccess": "¡Nombre de usuario reservado!"
+      },
+      "language": {
+        "title": "Idioma de la app",
+        "description": "Elige el idioma que usará la interfaz de la app.",
+        "success": "Idioma guardado."
+      }
+    }
+  },
+  "payouts": {
+    "title": "Pagos",
+    "subtitle": "Gestiona tus pagos",
+    "history": "Historial de Pagos",
+    "download_csv": "Descargar CSV",
+    "export_data": "Exportar Datos",
+    "empty_state": {
+      "title": "No se encontraron pagos",
+      "message": "Una vez que completes trabajos, tus pagos aparecerán aquí."
+    },
+    "status": {
+      "created": "Creado",
+      "pending": "Pendiente",
+      "in_transit": "En Tránsito",
+      "paid": "Pagado",
+      "failed": "Fallido",
+      "canceled": "Cancelado",
+      "returned": "Devuelto"
+    },
+    "status_description": {
+      "created": "El pago ha sido creado",
+      "pending": "Procesamiento en curso",
+      "in_transit": "El dinero está en camino a tu cuenta",
+      "paid": "Transferido exitosamente a tu cuenta",
+      "failed": "La transferencia falló",
+      "canceled": "El pago fue cancelado",
+      "returned": "La transferencia fue devuelta"
+    },
+    "details": {
+      "title": "Detalles del Pago",
+      "transfer_id": "ID de Transferencia",
+      "amount": "Cantidad",
+      "created_at": "Creado el",
+      "expected_arrival": "Llegada Esperada",
+      "arrived_at": "Llegó el",
+      "failure_reason": "Razón del Fallo",
+      "description": "Descripción",
+      "destination": "Cuenta de Destino",
+      "back_to_history": "Volver al Historial"
+    },
+    "filters": {
+      "all": "Todos",
+      "date_range": "Rango de Fechas",
+      "from": "Desde",
+      "to": "Hasta",
+      "apply": "Aplicar",
+      "clear": "Limpiar"
+    },
+    "export": {
+      "title": "Exportar Datos",
+      "csv_ready": "Archivo CSV listo",
+      "download_button": "Descargar Ahora",
+      "expires_in": "Expira en {minutes} minutos",
+      "generating": "Generando CSV...",
+      "error": "Error en la exportación"
+    },
+    "errors": {
+      "load_failed": "Error al cargar los pagos",
+      "details_failed": "Error al cargar los detalles",
+      "export_failed": "Error en la exportación",
+      "unauthorized": "No autorizado",
+      "openStripe": "No se pudo abrir el panel de Stripe"
+    }
+  },
+  "analytics": {
+    "title": "Analíticas",
+    "admin": {
+      "title": "Panel de Analíticas",
+      "tabs": {
+        "kpis": "KPIs",
+        "events": "Eventos"
+      },
+      "selectDateRange": "Seleccionar rango de fechas",
+      "summary": "Resumen",
+      "dailyBreakdown": "Desglose diario",
+      "noData": "Sin datos para el período seleccionado",
+      "noEvents": "Sin eventos para el período seleccionado",
+      "export": {
+        "title": "Exportar",
+        "events": "Eventos CSV",
+        "daily": "KPIs diarios CSV",
+        "ready": "Exportación lista",
+        "filename": "Archivo: {filename}",
+        "expiry": "La descarga expira en 1 hora",
+        "download": "Descargar",
+        "error": "Error en exportación: {error}"
+      }
+    },
+    "preferences": {
+      "title": "Preferencias de Analíticas",
+      "description": "Ayúdanos a mejorar Brivida compartiendo datos de uso anónimos",
+      "enabled": "Habilitar analíticas",
+      "disabled": "Deshabilitar analíticas",
+      "info": {
+        "title": "¿Qué datos recopilamos?",
+        "items": [
+          "Patrones de uso de la app e interacciones con funciones",
+          "Métricas de rendimiento y reportes de errores",
+          "Comportamiento de usuario anonimizado para mejora del producto",
+          "Ninguna información personal o contenido privado"
+        ]
+      },
+      "privacy": {
+        "title": "Protección de privacidad",
+        "items": [
+          "Todos los datos están anonimizados y encriptados",
+          "No es posible identificación personal",
+          "Retención de datos limitada a 24 meses",
+          "Cumple con GDPR y regulaciones de privacidad"
+        ]
+      },
+      "legal": "Ver nuestra Política de Privacidad para detalles",
+      "savedNotification": "Preferencias de analíticas guardadas"
+    },
+    "kpis": {
+      "jobsCreated": "Trabajos creados",
+  "leadsCreated": "Solicitudes creadas",
+  "leadsAccepted": "Solicitudes aceptadas",
+      "paymentsCaptured": "Pagos capturados",
+      "paymentsReleased": "Pagos liberados",
+      "refunds": "Reembolsos",
+      "chatMessages": "Mensajes de chat",
+      "activePros": "Pros activos",
+      "activeCustomers": "Clientes activos",
+      "newUsers": "Nuevos usuarios",
+      "disputesOpened": "Disputas abiertas",
+      "disputesResolved": "Disputas resueltas",
+      "avgRating": "Calificación promedio",
+      "ratingsCount": "Cantidad de calificaciones",
+      "pushDelivered": "Push entregados",
+      "pushOpened": "Push abiertos",
+      "pushOpenRate": "Tasa de apertura push"
+    }
+  },
+  "jobForm": {
+    "title": "Crear Nuevo Trabajo",
+    "address": "Dirección Completa",
+    "addressRequired": "La dirección es obligatoria",
+    "city": "Ciudad",
+    "cityRequired": "La ciudad es obligatoria", 
+    "district": "Distrito",
+    "hint": "Indicación de Ubicación",
+    "hintExample": "Cerca del Lido, cerca del centro comercial",
+    "doorcode": "Notas de Entrada",
+    "doorcodeExample": "Código puerta: 1234, Timbre apartamento 3B, Llamar al llegar",
+    "location": {
+      "title": "Ubicación exacta",
+      "helper": "Busca la dirección exacta para verla en el mapa.",
+      "placeholder": "Ninguna ubicación seleccionada",
+      "select": "Buscar dirección",
+      "change": "Cambiar dirección",
+      "selected": "Dirección seleccionada: {address}",
+      "coordinates": "Coordenadas: {lat}, {lng}",
+      "mapCaption": "Vista previa interactiva en Google Maps de la ubicación del servicio.",
+      "addressRequired": "Por favor, introduce una dirección",
+      "noResults": "No se encontró ninguna dirección. Ajusta e inténtalo de nuevo.",
+      "dialog": {
+        "title": "Buscar dirección",
+        "addressLabel": "Dirección",
+        "addressHint": "p. ej. Rua Imperatriz D. Amélia 72, Funchal",
+        "search": "Encontrar dirección",
+        "searching": "Buscando dirección…"
+      }
+    },
+    "size": "Tamaño de la Propiedad",
+    "sizeM2": "Tamaño (m²)",
+    "sizeRequired": "El tamaño es requerido",
+    "sizeInvalid": "Por favor ingrese un tamaño válido",
+    "rooms": "Número de Habitaciones",
+    "roomsRequired": "El número de habitaciones es requerido",
+    "roomsInvalid": "Por favor ingrese un número válido de habitaciones",
+    "services": "Servicios Requeridos",
+    "servicesRequired": "Por favor seleccione al menos un servicio",
+    "schedule": "Horario",
+    "startDate": "Fecha de Inicio",
+    "endDate": "Fecha de Fin",
+    "startTime": "Hora de Inicio",
+    "endTime": "Hora de Fin",
+    "selectDate": "Seleccionar Fecha",
+    "selectTime": "Seleccionar Hora",
+    "scheduleRequired": "Por favor complete el horario",
+    "scheduleInvalid": "La hora de fin debe ser después de la hora de inicio",
+    "budget": "Presupuesto",
+    "budgetAmount": "Monto del Presupuesto",
+    "budgetRequired": "El presupuesto es requerido",
+    "budgetInvalid": "Por favor ingrese un presupuesto válido",
+    "categoryTitle": "Tamaño del hogar",
+    "categorySmall": "Apartamento · hasta 60 m²",
+    "categoryMedium": "Casa mediana · 61–85 m²",
+    "categoryLarge": "Casa grande · 86–110 m²",
+    "categoryXl": "Casa muy grande · 110–150 m²",
+    "categoryVilla": "Chalet / varias plantas · +150 m²",
+    "extrasTitle": "Servicios extra",
+    "extrasSubtitle": "Añade extras sobre la limpieza general.",
+    "optionMaterialsProvided": "La profesional trae materiales",
+    "optionMaterialsProvidedSubtitle": "Incluye detergentes, paños, aspiradora, etc.",
+    "optionExpress": "Prioridad exprés",
+    "optionExpressSubtitle": "Incremento del 20% para urgencias. Mayor probabilidad de cita rápida.",
+    "summaryTitle": "Duración y precio estimados",
+    "summaryDuration": "Duración",
+    "summaryEnd": "Termina sobre",
+    "summaryPrice": "Estimación de precio",
+    "summaryPending": "Elige la hora de inicio para ver la estimación.",
+    "summaryDisclaimer": "El precio final puede ajustarse tras la confirmación de la profesional.",
+    "durationHours": "{hours} h",
+    "durationHoursMinutes": "{hours} h {minutes} min",
+    "extraWindowsInside": "Ventanas interior (+1 h)",
+    "extraWindowsInOut": "Ventanas interior y exterior (+1,5 h)",
+    "extraKitchenDeep": "Cocina a fondo (+45 min)",
+    "extraBathroomDeep": "Baño a fondo (+45 min)",
+    "extraLaundry": "Lavandería (lavar y secar) (+1 h)",
+    "extraIroningLight": "Plancha (hasta 5 prendas) (+30 min)",
+    "extraIroningFull": "Plancha (cesto completo) (+1 h)",
+    "extraBalcony": "Balcón/Terraza (+30 min)",
+    "extraOrganization": "Orden y organización (+45 min)",
+    "notes": "Notas Adicionales",
+    "notesHint": "Cualquier requisito especial o notas",
+    "submit": "Crear Trabajo",
+    "submitError": "No pudimos crear el trabajo. Inténtalo de nuevo.",
+    "locationSaveWarning": "Trabajo creado, pero no pudimos confirmar la dirección. Podrás actualizarla luego desde los detalles del trabajo."
+  },
+  "jobs": {
+    "myJobs": "Mis Trabajos",
+    "createJob": "Crear Trabajo",
+    "noJobsYet": "Aún no hay trabajos",
+    "createFirstJob": "Crea tu primer trabajo para comenzar",
+    "errorLoadingJobs": "Error cargando trabajos",
+    "rooms": "habitaciones",
+    "moreServices": "más",
+    "serviceGeneralCleaning": "Limpieza general"
+  },
+  "services": {
+    "generalCleaning": "Limpieza General",
+    "deepCleaning": "Limpieza Profunda",
+    "windowCleaning": "Limpieza de Ventanas",
+    "carpetCleaning": "Limpieza de Alfombras",
+    "kitchenCleaning": "Limpieza de Cocina",
+    "bathroomCleaning": "Limpieza de Baño",
+    "ironing": "Planchado",
+    "organization": "Organización"
+  },
+  "status": {
+    "open": "Abierto",
+    "assigned": "Asignado",
+    "completed": "Completado",
+    "cancelled": "Cancelado"
+  },
+  "payment": {
+    "checkout": {
+      "title": "Pagar Trabajo",
+      "total": "Total",
+      "escrow_info": "El pago se mantiene seguro hasta la finalización del trabajo",
+      "pay_now": "Pagar Ahora",
+      "terms": "Al proceder, acepta nuestros términos de servicio",
+      "error": {
+        "failed_create": "Error al crear el pago",
+        "invalid_request": "Solicitud de pago inválida",
+        "payment_failed": "El pago falló",
+        "unknown": "Error de pago desconocido"
+      }
+    },
+    "pro_wizard": {
+      "title": "Configuración de Pago",
+      "welcome_title": "Reciba pagos de clientes",
+      "welcome_description": "Configure su cuenta de pago para recibir transferencias directas de clientes.",
+      "benefits_title": "Sus beneficios:",
+      "benefit_secure_payments": "Pagos seguros",
+      "benefit_secure_payments_desc": "Todas las transacciones se procesan a través de Stripe",
+      "benefit_fast_transfers": "Transferencias rápidas",
+      "benefit_fast_transfers_desc": "Reciba su dinero automáticamente después de 24 horas",
+      "benefit_protected": "Protección del comprador",
+      "benefit_protected_desc": "Protección contra contracargos y fraude",
+      "requirements_title": "Lo que necesita:",
+      "requirements_description": "Una ID válida y cuenta bancaria. La configuración toma solo unos minutos.",
+      "setup_button": "Configurar cuenta",
+      "skip_button": "Configurar más tarde",
+      "onboarding_started": "La configuración ha comenzado",
+      "error": {
+        "failed_create": "Error al iniciar la configuración de la cuenta",
+        "cannot_open_url": "No se pudo abrir el enlace"
+      }
+    }
+    },
+    "admin": {
+      "dashboard": {
+        "backTooltip": "Volver al inicio",
+        "title": "Panel de administración",
+        "tabs": {
+          "disputes": "Disputas",
+          "payments": "Pagos",
+          "pros": "Profesionales",
+          "settings": "Configuración"
+        },
+        "kpi": {
+          "loadError": "Error al cargar KPIs: {error}",
+          "activePros": "Pros activos",
+          "openDisputes": "Disputas abiertas",
+          "captured24h": "Capturado €24h",
+          "refunds24h": "Reembolsos €24h"
+        },
+        "actions": {
+          "export": "Exportar"
+        },
+        "filters": {
+          "status": "Filtro de estado",
+          "all": "Todos",
+          "searchPlaceholder": "Buscar por nombre o correo",
+          "sort": {
+            "createdAt": "Fecha",
+            "healthScore": "Health score"
+          }
+        },
+        "empty": {
+          "disputes": "No se encontraron disputas",
+          "payments": "No se encontraron pagos",
+          "pros": "No se encontraron pros"
+        },
+        "errors": {
+          "generic": "Error: {error}",
+          "prosLoad": "Error al cargar pros"
+        },
+        "cards": {
+          "case": "Caso {id}",
+          "reason": "Motivo: {reason}",
+          "amount": "Monto: €{amount}",
+          "status": "Estado: {status}",
+          "job": "Job: {jobId}",
+          "payment": "Pago {id}"
+        },
+        "flags": {
+          "soft": "SOFT BANNED",
+          "hard": "HARD BANNED"
+        },
+        "unknown": "Desconocido",
+        "exportDialog": {
+          "title": "Exportación CSV",
+          "disputes": "Disputas",
+          "payments": "Pagos",
+          "jobs": "Trabajos",
+          "users": "Usuarios",
+          "cancel": "Cancelar"
+        },
+        "settings": {
+          "title": "Configuración de admin",
+          "dataRetention": {
+            "title": "Política de retención de datos",
+            "subtitle": "Configurar cumplimiento GDPR y periodos de retención"
+          },
+          "analytics": {
+            "title": "Configuración de analytics",
+            "subtitle": "Configurar preferencias de informes y análisis"
+          },
+          "system": {
+            "title": "Configuración del sistema",
+            "subtitle": "Ajustes y configuraciones de toda la plataforma"
+          }
+        }
+      }
+  },
+  "tutorial": {
+    "jobDetail": {
+      "step1": {
+        "title": "Toda la información del trabajo",
+        "body": "Revisa tamaño, habitaciones, precio y estado actual antes de planificar."
+      },
+      "step2": {
+        "title": "Servicios y extras",
+        "body": "Las etiquetas muestran lo que hay que limpiar. Confirma si puedes asumir extras como ventanas o planchado."
+      },
+      "step3": {
+        "title": "Dirección exacta",
+        "body": "Quienes tienen permiso ven la dirección y las indicaciones de acceso. Cópialas o abre el mapa para navegar."
+      },
+      "step4": {
+        "title": "Notas del cliente",
+        "body": "Lee instrucciones especiales, fotos o códigos de entrada para evitar sorpresas en el lugar."
+      },
+      "step5": {
+        "title": "Ubicación en vivo",
+        "body": "Si está activo, sigue aquí la llegada del cliente y comparte tu ruta en tiempo real."
+      },
+      "step6": {
+        "title": "Lista de comodidad",
+        "body": "Usa las herramientas de confort para marcar materiales, estacionamiento y entrega antes de finalizar."
+      }
+    },
+    "jobCompletion": {
+      "step1": {
+        "title": "Cerrar el trabajo",
+        "body": "Cuando la limpieza termine, marca aquí el trabajo como completado."
+      },
+      "step2": {
+        "title": "Revisión rápida",
+        "body": "Sube fotos si hace falta, confirma las zonas limpiadas y apunta cualquier pendiente."
+      },
+      "step3": {
+        "title": "Estado del pago",
+        "body": "Comprueba si el pago en depósito puede liberarse o si falta revisar algo."
+      },
+      "step4": {
+        "title": "Aceptar el resultado",
+        "body": "Pulsa Aceptar para liberar el pago o abre una disputa si falta algo."
+      },
+      "step5": {
+        "title": "Mensaje de cierre",
+        "body": "Escribe un breve resumen para la persona cliente y envíalo para pedir la aprobación."
+      },
+      "step6": {
+        "title": "¡Todo listo!",
+        "body": "El trabajo quedó completado. Continúa con la reseña o vuelve a tus trabajos."
+      }
+    }
+  }
+}

@@ -1,0 +1,1746 @@
+{
+  "auth": {
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "welcomeTitle": "Willkommen zurück",
+    "welcomeSubtitle": "Melde dich an, um deinen Brivida-Account zu nutzen.",
+    "emailLabel": "E-Mail-Adresse",
+    "emailHint": "du@example.com",
+    "passwordLabel": "Passwort",
+    "passwordHint": "Gib dein Passwort ein",
+    "noAccount": "Noch kein Konto?",
+    "hasAccount": "Schon ein Konto?",
+    "signInButton": "Anmelden",
+    "signUpButton": "Konto erstellen",
+    "forgotPassword": "Passwort vergessen?",
+    "package": {
+      "basic": {
+        "title": "Basis-Unterstützung"
+      },
+      "secure": {
+        "title": "Sicherer Start"
+      }
+    },
+    "required": "Authentifizierung erforderlich",
+    "description": "Melde dich an, um deine Oficializa-te-Anfragen zu verfolgen."
+  },
+  "statusList": {
+    "title": "Deine Bestellungen",
+    "empty": {
+      "title": "Du hast noch kein Paket gekauft",
+      "subtitle": "Wähle unten eine Option, um Oficializa-te zu starten."
+    },
+    "assigned": "Zugewiesene Fachkraft: {adminId}",
+    "updated": "Letzte Aktualisierung: {timestamp}",
+    "support": "Support kontaktieren",
+    "error": "Services konnten nicht geladen werden: {message}"
+  },
+  "oficializaTe": {
+    "appBarTitle": "🏛️ Werde offiziell",
+    "header": {
+      "title": "Werde selbstständig",
+      "subtitle": "Registriere dich offiziell als selbständige Reinigungskraft",
+      "adminServices": {
+        "banner": {
+          "title": "Arbeite rechtssicher",
+          "subtitle": "Buche das Oficializa-te-Paket und erhalte Schritt-für-Schritt-Begleitung",
+          "cta": "Oficializa-te starten",
+          "statusTitle": "Status deines Prozesses",
+          "manage": "Verwalten",
+          "updated": "Aktualisiert am {date}",
+          "help": "Unser Team meldet sich innerhalb von 24 Geschäftsstunden."
+        },
+        "status": {
+          "pendingPayment": "Zahlung ausstehend",
+          "pending": "In Prüfung",
+          "assigned": "Spezialist zugewiesen",
+          "completed": "Abgeschlossen",
+          "cancelled": "Storniert"
+        },
+        "package": {
+          "basic": {
+            "title": "Basis-Unterstützung"
+          },
+          "secure": {
+            "title": "Sicherer Start"
+          }
+        },
+        "auth": {
+          "required": "Authentifizierung erforderlich",
+          "description": "Melde dich an, um deine Oficializa-te-Anfragen zu verfolgen."
+        },
+        "statusList": {
+          "title": "Deine Bestellungen",
+          "empty": {
+            "title": "Du hast noch kein Paket gekauft",
+            "subtitle": "Wähle unten eine Option, um Oficializa-te zu starten."
+          },
+          "assigned": "Zugewiesene Fachkraft: {adminId}",
+          "updated": "Letzte Aktualisierung: {timestamp}",
+          "support": "Support kontaktieren",
+          "error": "Services konnten nicht geladen werden: {message}"
+        },
+        "oficializaTe": {
+          "appBarTitle": "🏛️ Werde offiziell",
+          "header": {
+            "title": "Werde selbstständig",
+            "subtitle": "Registriere dich offiziell als selbständige Reinigungskraft",
+            "benefitsTitle": "✅ Darum solltest du dich offiziell anmelden:",
+            "benefits": {
+              "legal": "• Arbeite legal und mit Sicherheit",
+              "social": "• Zugang zu Gesundheits- und Sozialversicherung",
+              "receipts": "• Offizielle Recibos Verdes ausstellen",
+              "protection": "• Rechtlicher Schutz für dich und Kund:innen",
+              "credibility": "• Mehr Vertrauen am Markt"
+            }
+          },
+          "packages": {
+            "heading": "Wähle dein Unterstützungs-Paket:",
+            "recommendedRibbon": "EMPFOHLEN",
+            "paymentNote": "Einmalzahlung",
+            "includesTitle": "Enthalten:",
+            "processing": "Wird verarbeitet...",
+            "buyNowLabel": "Jetzt kaufen – €{price}",
+            "basic": {
+              "title": "Basis Begleitung",
+              "subtitle": "Wichtige Orientierung",
+              "description": "Schritt-für-Schritt-Begleitung zur Anmeldung als Selbständige:r. Inklusive interaktiver Checkliste und Online-Support.",
+              "features": {
+                "checklist": "Digitale Checkliste in der App",
+                "remoteSupport": "1h Remote-Support (Video/Telefon)",
+                "guide": "PDF-Guide mit Screenshots",
+                "preparation": "Vorbereitung auf den Termin im Bürgeramt"
+              }
+            },
+            "secure": {
+              "title": "Sicherer Start",
+              "subtitle": "Komplette Begleitung",
+              "description": "Persönliche Unterstützung von der Anmeldung bis zu deinen ersten Aufträgen. Mit Vor-Ort-Hilfe und Follow-up.",
+              "features": {
+                "includesBasic": "Alles aus \"Basis Begleitung\"",
+                "inPerson": "Begleitung vor Ort/Call (bis zu 2h)",
+                "followUp": "30 Tage Nachbetreuung",
+                "taxSupport": "Hilfe bei Recibos Verdes & Quartalsmeldung",
+                "directChat": "Direkter WhatsApp-/Chat-Kontakt"
+              }
+            }
+          },
+          "legal": {
+            "title": "Wichtiger rechtlicher Hinweis",
+            "body": "Brivida ist keine zertifizierte Steuerberatung und erteilt keine steuerliche Beratung im rechtlichen Sinne. Unser Service umfasst organisatorische Begleitung während deiner offiziellen Anmeldung als Selbständige:r. Alle Schritte und Einreichungen führst du selbst mit deiner Chave Móvel Digital durch.",
+            "disclaimer": "Für komplexe Steuerfragen empfehlen wir eine zertifizierte Steuerberatung."
+          },
+          "faq": {
+            "title": "Häufige Fragen",
+            "items": {
+              "duration": {
+                "question": "Wie lange dauert der Prozess?",
+                "answer": "In der Regel 1–2 Wochen, abhängig von Terminen im Bürgeramt und der Komplexität des Falls."
+              },
+              "digitalKey": {
+                "question": "Brauche ich die Chave Móvel Digital?",
+                "answer": "Ja, sie ist für alle Online-Prozesse erforderlich. Wenn du sie noch nicht hast, zeigen wir dir den Weg dorthin."
+              },
+              "documents": {
+                "question": "Welche Unterlagen brauche ich?",
+                "answer": "Personalausweis/Pass, Adressnachweis, IBAN und je nach Fall weitere Dokumente."
+              },
+              "refund": {
+                "question": "Kann ich stornieren oder eine Rückerstattung erhalten?",
+                "answer": "Stornierung ist möglich, solange die Begleitung noch nicht begonnen hat. Danach ist keine Rückerstattung möglich."
+              }
+            },
+            "supportCta": "Support kontaktieren"
+          },
+          "checkout": {
+            "openFailed": "Checkout konnte nicht geöffnet werden",
+            "error": "Zahlung fehlgeschlagen: {message}",
+            "confirmTitle": "Kauf bestätigen – {package}",
+            "confirmBody": "Möchtest du das Paket \"{package}\" für €{price} kaufen?",
+            "afterPaymentTitle": "Nach der Zahlung:",
+            "steps": {
+              "contact": "Ein Brivida-Admin meldet sich bei dir",
+              "instructions": "Du erhältst detaillierte Anweisungen",
+              "start": "Die Begleitung startet in Kürze"
+            },
+            "reminder": "Hinweis: Brivida bietet organisatorische Begleitung, keine zertifizierte Steuerberatung.",
+            "cancel": "Abbrechen",
+            "confirm": "Kauf bestätigen"
+          },
+          "support": {
+            "dialogTitle": "Support kontaktieren",
+            "intro": "Du erreichst uns über:",
+            "email": "support@brivida.com",
+            "chat": "In-App-Chat (bald verfügbar)",
+            "close": "Schließen"
+          }
+        }
+      },
+      "label": "Ich suche eine regelmäßige Reinigung"
+    },
+    "extras": {
+      "title": "Extras",
+      "laundry": "Wäsche waschen",
+      "ironing": "Bügeln (große Teile)",
+      "windows": "Fenster innen & außen"
+    },
+    "hourlyRate": {
+      "label": "Stundensatz (EUR)"
+    },
+    "actions": {
+      "search": "Angebote suchen",
+      "sendRequest": "Anfrage senden",
+      "requestOffer": "Angebot anfragen"
+    },
+    "feedback": {
+      "requestSent": "Anfrage gesendet!",
+      "requestError": "Fehler: {code}",
+      "addressRequired": "Bitte Adresse ausfüllen, bevor du anfragst",
+      "hourlyInvalid": "Stundensatz prüfen."
+    },
+    "searchError": "Fehler bei der Suche: {code}",
+    "results": {
+      "title": "Gefundene Angebote ({count})",
+      "distance": "Entfernung: {km} km",
+      "pro": "Pro: {name}",
+      "rating": "Bewertung: {rating} ⭐",
+      "window": "Zeitfenster {from} – {to}",
+      "duration": "{hours} h Anfrage",
+      "recurring": "Regelmäßig",
+      "note": {
+        "title": "Nachricht an {name}",
+        "label": "Optionale Nachricht",
+        "hint": "z. B. Haustier vorhanden, besondere Wünsche..."
+      }
+    }
+  },
+  "adminServices": {
+    "banner": {
+      "title": "Arbeite rechtssicher",
+      "subtitle": "Buche das Oficializa-te-Paket und erhalte Schritt-für-Schritt-Begleitung",
+      "cta": "Oficializa-te starten",
+      "statusTitle": "Status deines Prozesses",
+      "manage": "Verwalten",
+      "updated": "Aktualisiert am {date}",
+      "help": "Unser Team meldet sich innerhalb von 24 Geschäftsstunden."
+    },
+    "status": {
+      "pendingPayment": "Zahlung ausstehend",
+      "pending": "In Prüfung",
+      "assigned": "Spezialist zugewiesen",
+      "completed": "Abgeschlossen",
+      "cancelled": "Storniert"
+    },
+    "package": {
+      "basic": {
+        "title": "Basis-Unterstützung"
+      },
+      "secure": {
+        "title": "Sicherer Start"
+      }
+    },
+    "auth": {
+      "required": "Authentifizierung erforderlich",
+      "description": "Melde dich an, um deine Oficializa-te-Anfragen zu verfolgen."
+    },
+    "statusList": {
+      "title": "Deine Bestellungen",
+      "empty": {
+        "title": "Noch kein Paket gekauft",
+        "subtitle": "Wähle unten ein Paket, um Oficializa-te zu starten."
+      },
+      "assigned": "Zugewiesener Ansprechpartner: {adminId}",
+      "updated": "Letzte Aktualisierung: {timestamp}",
+      "support": "Support kontaktieren",
+      "error": "Services konnten nicht geladen werden: {message}"
+    },
+    "oficializaTe": {
+      "appBarTitle": "🏛️ Werde offiziell",
+      "header": {
+        "title": "Werde selbstständig",
+        "subtitle": "Registriere dich offiziell als selbständige Reinigungskraft",
+        "benefitsTitle": "✅ Darum solltest du dich offiziell anmelden:",
+        "benefits": {
+          "legal": "• Arbeite legal und mit Sicherheit",
+          "social": "• Zugang zu Gesundheits- und Sozialversicherung",
+          "receipts": "• Offizielle Recibos Verdes ausstellen",
+          "protection": "• Rechtlicher Schutz für dich und Kund:innen",
+          "credibility": "• Mehr Vertrauen am Markt"
+        }
+      },
+      "packages": {
+        "heading": "Wähle dein Unterstützungs-Paket:",
+        "recommendedRibbon": "EMPFOHLEN",
+        "paymentNote": "Einmalzahlung",
+        "includesTitle": "Enthalten:",
+        "processing": "Wird verarbeitet...",
+        "buyNowLabel": "Jetzt kaufen – €{price}",
+        "basic": {
+          "title": "Basis Begleitung",
+          "subtitle": "Wichtige Orientierung",
+          "description": "Schritt-für-Schritt-Begleitung zur Anmeldung als Selbständige:r. Inklusive interaktiver Checkliste und Online-Support.",
+          "features": {
+            "checklist": "Digitale Checkliste in der App",
+            "remoteSupport": "1h Remote-Support (Video/Telefon)",
+            "guide": "PDF-Guide mit Screenshots",
+            "preparation": "Vorbereitung auf den Termin im Bürgeramt"
+          }
+        },
+        "secure": {
+          "title": "Sicherer Start",
+          "subtitle": "Komplette Begleitung",
+          "description": "Persönliche Unterstützung von der Anmeldung bis zu deinen ersten Aufträgen. Mit Vor-Ort-Hilfe und Follow-up.",
+          "features": {
+            "includesBasic": "Alles aus \"Basis Begleitung\"",
+            "inPerson": "Begleitung vor Ort/Call (bis zu 2h)",
+            "followUp": "30 Tage Nachbetreuung",
+            "taxSupport": "Hilfe bei Recibos Verdes & Quartalsmeldung",
+            "directChat": "Direkter WhatsApp-/Chat-Kontakt"
+          }
+        }
+      },
+      "legal": {
+        "title": "Wichtiger rechtlicher Hinweis",
+        "body": "Brivida ist keine zertifizierte Steuerberatung und erteilt keine steuerliche Beratung im rechtlichen Sinne. Unser Service umfasst organisatorische Begleitung während deiner offiziellen Anmeldung als Selbständige:r. Alle Schritte und Einreichungen führst du selbst mit deiner Chave Móvel Digital durch.",
+        "disclaimer": "Für komplexe Steuerfragen empfehlen wir eine zertifizierte Steuerberatung."
+      },
+      "faq": {
+        "title": "Häufige Fragen",
+        "items": {
+          "duration": {
+            "question": "Wie lange dauert der Prozess?",
+            "answer": "In der Regel 1–2 Wochen, abhängig von Terminen im Bürgeramt und der Komplexität des Falls."
+          },
+          "digitalKey": {
+            "question": "Brauche ich die Chave Móvel Digital?",
+            "answer": "Ja, sie ist für alle Online-Prozesse erforderlich. Wenn du sie noch nicht hast, zeigen wir dir den Weg dorthin."
+          },
+          "documents": {
+            "question": "Welche Unterlagen brauche ich?",
+            "answer": "Personalausweis/Pass, Adressnachweis, IBAN und je nach Fall weitere Dokumente."
+          },
+          "refund": {
+            "question": "Kann ich stornieren oder eine Rückerstattung erhalten?",
+            "answer": "Stornierung ist möglich, solange die Begleitung noch nicht begonnen hat. Danach ist keine Rückerstattung möglich."
+          }
+        },
+        "supportCta": "Support kontaktieren"
+      },
+      "checkout": {
+        "openFailed": "Checkout konnte nicht geöffnet werden",
+        "error": "Zahlung fehlgeschlagen: {message}",
+        "confirmTitle": "Kauf bestätigen – {package}",
+        "confirmBody": "Möchtest du das Paket \"{package}\" für €{price} kaufen?",
+        "afterPaymentTitle": "Nach der Zahlung:",
+        "steps": {
+          "contact": "Ein Brivida-Admin meldet sich bei dir",
+          "instructions": "Du erhältst detaillierte Anweisungen",
+          "start": "Die Begleitung startet in Kürze"
+        },
+        "reminder": "Hinweis: Brivida bietet organisatorische Begleitung, keine zertifizierte Steuerberatung.",
+        "cancel": "Abbrechen",
+        "confirm": "Kauf bestätigen"
+      },
+      "support": {
+        "dialogTitle": "Support kontaktieren",
+        "intro": "Du erreichst uns über:",
+        "email": "support@brivida.com",
+        "chat": "In-App-Chat (bald verfügbar)",
+        "close": "Schließen"
+      }
+    }
+  },
+  "errors": {
+    "emailRequired": "E-Mail ist erforderlich",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "passwordRequired": "Passwort ist erforderlich",
+    "passwordTooShort": "Das Passwort muss mindestens 6 Zeichen lang sein",
+    "passwordsNotMatch": "Passwörter stimmen nicht überein",
+    "confirmPasswordRequired": "Bitte bestätigen Sie Ihr Passwort",
+    "fieldRequired": "Dieses Feld ist erforderlich",
+    "generic": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "geocodeFailed": "Adresse konnte nicht gefunden werden. Bitte überprüfen und erneut versuchen.",
+    "locationUnavailable": "Standortdienst nicht verfügbar. Bitte später versuchen.",
+    "etaFailed": "Fahrzeit konnte nicht berechnet werden. Bitte erneut versuchen.",
+    "addressRequired": "Adresse ist erforderlich"
+  },
+  "job": {
+    "newTitle": "Neuer Auftrag",
+    "createSuccess": "Auftrag erfolgreich erstellt!",
+    "new": {
+      "title": "Neuen Job erstellen"
+    },
+    "create": {
+      "success": "Job erfolgreich erstellt"
+    },
+    "status": {
+      "open": "Offen",
+      "assigned": "Zugewiesen",
+      "completed": "Abgeschlossen",
+      "cancelled": "Storniert"
+    },
+    "list": {
+      "title": "Meine Jobs"
+    },
+    "detail": {
+      "title": "Job Details",
+      "overview": "Job Übersicht",
+      "size": "Größe",
+      "rooms": "Zimmer",
+      "budget": "Budget",
+      "status": "Status",
+      "services": "Services",
+      "notes": "Notizen",
+      "notFound": "Job nicht gefunden",
+      "error": "Fehler"
+    },
+    "form": {
+      "address": "Adresse",
+      "addressHint": "Vollständige Adresse eingeben",
+      "city": "Stadt",
+      "district": "Bezirk",
+      "hint": "Ortshinweis",
+      "doorcode": "Zugangshinweise",
+      "doorcodeHint": "Türcode, Klingelinfo, Parkhinweise..."
+    },
+    "map": {
+      "title": "Standort",
+      "location": "Standortdetails",
+      "navigate": "Navigation starten",
+      "eta": "Fahrzeit berechnen",
+      "doorcode": "Zugangshinweise",
+      "copyAddress": "Adresse kopieren",
+      "addressCopied": "Adresse kopiert",
+      "notAuthorized": "Zugang zum Standort nicht autorisiert",
+      "loading": "Karte wird geladen...",
+      "calculating": "Berechnung läuft...",
+      "etaResult": "{minutes} Min ({distance})"
+    }
+  },
+    "jobCompletion": {
+      "title": "Jobabschluss",
+      "roleWarning": "Du hast keine Berechtigung, diesen Abschluss zu sehen.",
+      "summary": {
+        "title": "Zusammenfassung",
+        "status": "Status",
+        "budget": "Gesamtbetrag",
+        "schedule": "Zeitplan",
+        "city": "Stadt"
+      },
+      "payment": {
+        "title": "Zahlung",
+        "pendingRelease": "Die Gelder liegen im Treuhandkonto und werden nach Freigabe oder nach 24 Stunden ausbezahlt.",
+        "released": "Die Zahlung wurde an die Fachkraft ausgezahlt.",
+        "pendingCapture": "Die Zahlung wartet auf Freigabe.",
+        "notAvailable": "Für diesen Auftrag liegen keine Zahlungsinformationen vor."
+      },
+      "pro": {
+        "shortDescription": "Checkliste abhaken, Fotos hinzufügen und den Bericht einreichen.",
+        "checklist": {
+          "title": "Checkliste",
+          "empty": "Für diesen Auftrag ist keine Checkliste hinterlegt."
+        },
+        "photos": {
+          "title": "Fotos",
+          "add": "Foto hinzufügen"
+        },
+        "note": {
+          "title": "Notiz für die Kundschaft",
+          "hint": "Teile hier wichtige Hinweise für die Kundschaft."
+        },
+        "submit": "Abschluss einreichen",
+        "waitingApproval": {
+          "title": "Warte auf Freigabe durch die Kundschaft",
+          "body": "Wir melden uns, sobald der Abschluss geprüft wurde."
+        }
+      },
+      "customer": {
+        "shortDescription": "Bericht prüfen, freigeben oder ein Problem melden.",
+        "waiting": {
+          "title": "Abschluss ausständig",
+          "body": "Die Fachkraft hat noch keinen Abschlussbericht eingereicht."
+        },
+        "submission": {
+          "title": "Details zum Abschluss"
+        },
+        "photos": {
+          "title": "Fotos"
+        },
+        "note": {
+          "title": "Notiz der Fachkraft",
+          "empty": "Keine Notiz vorhanden."
+        },
+        "approve": "Abschluss freigeben",
+        "dispute": "Problem melden"
+      },
+      "success": {
+        "submit": "Abschluss zur Prüfung eingereicht.",
+        "approve": "Abschluss freigegeben. Wir leiten die Auszahlung ein."
+      },
+      "error": {
+        "generic": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+        "upload": "Foto konnte nicht hochgeladen werden. Bitte erneut versuchen.",
+        "photoPicker": "Kamera konnte nicht geöffnet werden.",
+        "photoUploading": "Bitte warte, bis alle Fotos hochgeladen sind.",
+        "submit": "Abschluss konnte nicht eingereicht werden. Bitte erneut versuchen.",
+        "approve": "Abschluss konnte nicht freigegeben werden. Bitte erneut versuchen.",
+        "noJob": "Auftragsdaten fehlen."
+      }
+    },
+  "leads": {
+    "feedTitle": "Verfügbare Jobs",
+    "noJobs": "Keine verfügbaren Jobs",
+    "noJobsSubtitle": "Schauen Sie später nach neuen Möglichkeiten",
+    "errorLoadingJobs": "Fehler beim Laden der Jobs",
+    "rooms": "Zimmer",
+    "statusOpen": "Offen",
+    "notes": "Notizen:",
+    "inboxTitle": "Anfragen-Posteingang",
+    "accept": "Annehmen",
+    "decline": "Ablehnen",
+    "accepted": "Angenommen",
+    "declined": "Abgelehnt",
+    "applyForJob": "Auf Job bewerben",
+    "applying": "Bewerbung läuft...",
+    "applicationTitle": "Bewerbung senden",
+    "applicationMessage": "Senden Sie eine Bewerbung für diesen Reinigungsauftrag. Sie können eine Nachricht hinzufügen, um sich dem Kunden vorzustellen.",
+    "applicationMessageLabel": "Nachricht (optional)",
+    "applicationHint": "Hallo! Ich bin interessiert an diesem Reinigungsauftrag...",
+    "cancel": "Abbrechen",
+    "sendApplication": "Bewerbung senden",
+    "applicationSent": "Bewerbung erfolgreich gesendet!",
+    "applicationError": "Fehler beim Senden der Bewerbung",
+  "moreServices": "weitere",
+    "inboxEmptyTitle": "Noch keine Anfragen",
+    "inboxEmptySubtitle": "Neue Anfragen erscheinen hier, sobald sich Kund:innen für deine Services interessieren.",
+    "inboxErrorTitle": "Fehler beim Laden der Anfragen",
+    "inboxErrorDetails": "Details: {error}",
+    "cardTitle": "Job-Anfrage",
+    "cardJobId": "Job-ID: {id}",
+    "cardMessageLabel": "Nachricht:",
+    "viewJob": "Job ansehen",
+    "snackbarAcceptSuccess": "Anfrage erfolgreich angenommen!",
+    "snackbarAcceptError": "Fehler beim Annehmen der Anfrage: {error}",
+    "snackbarDeclineSuccess": "Anfrage abgelehnt",
+    "snackbarDeclineError": "Fehler beim Ablehnen der Anfrage: {error}",
+    "statusPending": "Ausstehend",
+    "fallbackTitle": "Fehler im Anfragen-Posteingang",
+    "fallbackMessage": "Der Anfragen-Posteingang konnte nicht geladen werden.",
+    "fallbackErrorPrefix": "Fehler: {error}"
+  },
+  "lead": {
+    "inbox": {
+      "title": "Meine Anfragen"
+    },
+    "create": "Anfrage erstellen",
+    "accept": "Annehmen",
+    "decline": "Ablehnen",
+    "accepted": "Angenommen",
+    "declined": "Abgelehnt",
+    "feed": {
+      "title": "Job Feed"
+    }
+  },
+  "notifications": {
+    "type": {
+      "leadNew": "Neue Anfrage",
+      "leadAccepted": "Anfrage angenommen",
+      "leadDeclined": "Anfrage abgelehnt",
+      "jobAssigned": "Auftrag zugewiesen",
+      "jobChanged": "Auftrag geändert",
+      "jobCancelled": "Auftrag storniert",
+      "reminder24h": "Erinnerung 24h",
+      "reminder1h": "Erinnerung 1h",
+      "paymentCaptured": "Zahlung erfasst",
+      "paymentReleased": "Zahlung freigegeben",
+      "paymentRefunded": "Rückerstattung",
+      "disputeOpened": "Streitfall eröffnet",
+      "disputeResponse": "Antwort im Streitfall",
+      "disputeDecision": "Entscheidung im Streitfall",
+      "chatMessage": "Neue Nachricht"
+    },
+    "push": {
+      "fallback": {
+        "title": "Benachrichtigung",
+        "body": "Sie haben eine neue Benachrichtigung."
+      },
+      "lead": {
+        "new": {
+          "title": "Neue Anfrage verfügbar",
+          "body": "Neue Reinigungsanfrage in {city}"
+        },
+        "accepted": {
+          "title": "Anfrage angenommen",
+          "body": "Ein Profi hat Ihre Anfrage angenommen."
+        },
+        "declined": {
+          "title": "Anfrage abgelehnt",
+          "body": "Ein Profi konnte Ihre Anfrage nicht übernehmen."
+        }
+      },
+      "job": {
+        "assigned": {
+          "customer": {
+            "title": "Auftrag bestätigt",
+            "body": "Ihre Reinigung ist geplant für {date}."
+          },
+          "pro": {
+            "title": "Neuer Auftrag",
+            "body": "Sie haben einen neuen Auftrag am {date}."
+          }
+        },
+        "changed": {
+          "title": "Auftrag aktualisiert",
+          "body": "Geänderte Details: {changes}"
+        },
+        "cancelled": {
+          "title": "Auftrag storniert",
+          "body": "Ihr Auftrag wurde storniert."
+        },
+        "reminder24h": {
+          "customer": {
+            "title": "Erinnerung: Reinigung morgen",
+            "body": "Ihre Reinigung ist morgen um {time} geplant."
+          },
+          "pro": {
+            "title": "Erinnerung: Auftrag morgen",
+            "body": "Sie haben morgen um {time} einen Auftrag."
+          }
+        },
+        "reminder1h": {
+          "customer": {
+            "title": "Erinnerung: Reinigung in 1 Stunde",
+            "body": "Ihre Reinigung startet in etwa 1 Stunde."
+          },
+          "pro": {
+            "title": "Erinnerung: Auftrag in 1 Stunde",
+            "body": "Ihr Auftrag beginnt in etwa 1 Stunde."
+          }
+        }
+      },
+      "payment": {
+        "captured": {
+          "title": "Zahlung eingegangen",
+          "body": "Wir haben Ihre Zahlung über {amount} erfasst."
+        },
+        "released": {
+          "title": "Auszahlung freigegeben",
+          "body": "Ihre Auszahlung über {amount} wurde freigegeben."
+        },
+        "refunded": {
+          "title": "Zahlung erstattet",
+          "body": "Wir haben {amount} zurückerstattet."
+        }
+      },
+      "dispute": {
+        "opened": {
+          "title": "Neue Streitigkeit",
+          "body": "Für Ihren Auftrag wurde eine Streitigkeit eröffnet."
+        },
+        "response": {
+          "title": "Neue Antwort in Streitigkeit",
+          "body": "Es gibt eine neue Antwort in Ihrer Streitigkeit."
+        },
+        "decision": {
+          "title": "Streitigkeit beendet",
+          "body": "Ihre Streitigkeit wurde entschieden."
+        }
+      },
+      "chat": {
+        "newMessage": {
+          "title": "Neue Nachricht",
+          "body": "Sie haben eine neue Nachricht erhalten."
+        }
+      }
+    }
+  },
+  "proOffers": {
+    "pageTitle": "Meine Angebote",
+    "newOffer": "Neues Angebot",
+    "empty": {
+      "title": "Noch keine Angebote",
+      "subtitle": "Lege deine Verfügbarkeit fest und erreiche neue Kund:innen.",
+      "cta": "Angebot erstellen"
+    },
+    "error": {
+      "loadFailed": "Angebote konnten nicht geladen werden."
+    },
+    "summary": {
+      "total": "{count} Angebote gesamt",
+      "active": "{count} aktiv",
+      "inactive": "{count} pausiert"
+    },
+    "card": {
+      "weekdayCount": "{count} Wochentage",
+      "timeRange": "{from} – {to}",
+      "radius": "Radius {km} km",
+      "recurring": "Wiederkehrende Kund:innen",
+      "edit": "Bearbeiten"
+    },
+    "messages": {
+      "toggleFailed": "Status konnte nicht aktualisiert werden.",
+      "deleteFailed": "Angebot konnte nicht gelöscht werden."
+    },
+    "extras": {
+      "laundry": "Wäsche",
+      "ironing": "Bügeln (große Teile)",
+      "windows": "Fenster innen & außen"
+    },
+    "dialog": {
+      "deleteTitle": "Angebot löschen?",
+      "deleteBody": "\"{title}\" wird dauerhaft entfernt."
+    },
+    "editor": {
+      "createTitle": "Angebot erstellen",
+      "editTitle": "Angebot bearbeiten",
+      "fields": {
+        "title": {
+          "label": "Titel",
+          "hint": "z. B. Reinigungspaket Innenstadt"
+        },
+        "notes": {
+          "label": "Notizen",
+          "hint": "Optionale Hinweise für Kund:innen"
+        }
+      },
+      "weekdays": "Wochentage",
+      "timeFrom": "Von",
+      "timeTo": "Bis",
+      "hoursOption": "{hours} h",
+      "minHours": "Min. Stunden",
+      "maxHours": "Max. Stunden",
+      "recurring": {
+        "title": "Wiederkehrende Kund:innen akzeptieren",
+        "subtitle": "z. B. wöchentliche Reinigung"
+      },
+      "extras": "Zusatzleistungen",
+      "extrasLaundry": "Wäsche waschen",
+      "extrasIroning": "Bügeln (große Teile)",
+      "extrasWindows": "Fenster innen & außen",
+      "radius": {
+        "title": "Service-Radius",
+        "value": "Radius: {km} km"
+      },
+      "location": {
+        "title": "Service-Standort",
+        "placeholder": "Noch kein Standort gewählt",
+        "helper": "Wähle den Mittelpunkt deines Servicegebiets.",
+        "select": "Standort auswählen",
+        "change": "Standort ändern",
+        "selected": "Ausgewählte Adresse: {address}",
+        "coordinates": "Koordinaten: {lat}, {lng}",
+  "mapCaption": "Interaktive Google-Maps-Vorschau deiner Einsatzregion.",
+        "mapError": "Kartenansicht nicht verfügbar.",
+        "dialog": {
+          "title": "Adresse suchen",
+          "addressLabel": "Adresse",
+          "addressHint": "z. B. Musterstraße 123, Berlin",
+          "search": "Adresse finden",
+          "searching": "Adresse wird gesucht…",
+          "noResults": "Keine Adresse gefunden. Bitte anpassen und erneut versuchen."
+        }
+      },
+      "submitCreate": "Angebot erstellen",
+      "submitUpdate": "Änderungen speichern",
+      "successCreate": "Angebot erstellt!",
+      "successUpdate": "Angebot aktualisiert.",
+      "errors": {
+        "titleRequired": "Bitte einen Titel eingeben.",
+        "titleTooShort": "Titel ist zu kurz.",
+        "weekdaysRequired": "Mindestens einen Wochentag auswählen.",
+        "timeOrder": "Endzeit muss nach der Startzeit liegen.",
+        "hoursRange": "Minimale und maximale Stunden anpassen.",
+        "radius": "Radius zwischen 5 und 50 km wählen.",
+        "addressRequired": "Bitte eine Adresse eingeben.",
+        "locationMissing": "Bitte einen Standort für dein Angebot wählen.",
+        "validation": "Validierungsfehler: {code}",
+        "saveFailed": "Angebot konnte nicht gespeichert werden."
+      }
+    }
+  },
+  "reviews": {
+    "submission": {
+      "title": "Bewertung abgeben",
+      "for": "Für: {name}",
+      "ratingPrompt": "Wie zufrieden waren Sie?",
+      "missingRating": "Bitte wählen Sie eine Sterne-Bewertung",
+      "commentLabel": "Kommentar (optional)",
+      "commentHint": "Teilen Sie Ihre Erfahrungen...",
+      "commentValidation": "Kommentar darf maximal 500 Zeichen haben",
+      "submit": "Bewertung abgeben",
+      "success": "Bewertung für {name} wurde übermittelt",
+      "error": "Bewertung konnte nicht übermittelt werden: {error}",
+      "ratingText": {
+        "1": "Sehr unzufrieden",
+        "2": "Unzufrieden",
+        "3": "Neutral",
+        "4": "Zufrieden",
+        "5": "Sehr zufrieden"
+      }
+    },
+    "buttons": {
+      "review": "Bewerten",
+      "reviewed": "Bewertet"
+    },
+    "card": {
+      "proInfo": "Bewertung für Pro: {name}",
+      "time": {
+        "now": "Jetzt",
+        "minutes": "{count} Min",
+        "hours": "{count} Std",
+        "days": "{count} T"
+      }
+    },
+    "moderation": {
+      "status": {
+        "visible": "Sichtbar",
+        "hidden": "Verborgen",
+        "flagged": "Gemeldet"
+      },
+      "reasonLabel": "Grund: {reason}",
+      "menu": {
+        "makeVisible": "Sichtbar machen",
+        "hide": "Verbergen",
+        "flag": "Als problematisch markieren"
+      },
+      "dialogs": {
+        "hide": {
+          "title": "Bewertung verbergen",
+          "body": "Sind Sie sicher, dass Sie diese Bewertung verbergen möchten? Sie wird für alle Nutzer unsichtbar und beeinflusst die Bewertung des Profis.",
+          "confirm": "Verbergen"
+        },
+        "reason": {
+          "title": "Grund angeben",
+          "label": "Grund",
+          "hint": "Bitte geben Sie einen kurzen Grund an",
+          "confirm": "Bestätigen"
+        }
+      },
+      "snackbar": {
+        "success": "Bewertung wurde {status}",
+        "error": "Moderation fehlgeschlagen: {error}"
+      }
+    },
+    "list": {
+      "loadingError": "Fehler beim Laden der Bewertungen: {error}",
+      "empty": {
+        "title": "Noch keine Bewertungen",
+        "subtitle": "Seien Sie die erste Person, die diesen Profi bewertet!"
+      },
+      "noneFound": "Keine Bewertungen gefunden"
+    },
+    "proRating": {
+      "heading": "Bewertungen ({count})",
+      "sectionTitle": "Bewertungen",
+      "showAll": "Alle {count} anzeigen",
+      "showMore": "{count} weitere Bewertungen anzeigen",
+      "error": "Bewertungen konnten nicht geladen werden",
+      "allTitle": "Alle Bewertungen",
+      "aggregateCount": {
+        "one": "{count} Bewertung",
+        "other": "{count} Bewertungen"
+      },
+      "compactNone": "Keine Bewertungen"
+    },
+    "breakdown": {
+      "empty": "Noch keine Bewertungen"
+    }
+  },
+  "offerSearch": {
+    "pageTitle": "Verfügbare Angebote finden",
+    "filters": {
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "address": {
+        "label": "Adresse",
+        "hint": "Wo soll gereinigt werden?"
+      },
+      "duration": "Dauer ({hours} h)",
+      "radius": "Radius ({km} km)",
+      "recurring": "Regelmäßige Reinigung gesucht",
+  "extras": "Zusatzleistungen",
+      "search": "Angebote suchen"
+    },
+    "location": {
+      "title": "Genauer Standort",
+      "helper": "Suche die vollständige Adresse, um sie auf der Karte anzuzeigen.",
+      "placeholder": "Noch kein Standort ausgewählt",
+      "select": "Adresse suchen",
+      "change": "Adresse ändern",
+      "coordinates": "Koordinaten: {lat}, {lng}",
+      "mapCaption": "Tippe oder halte die Karte, um einen Pin am Einsatzort zu setzen.",
+      "confirm": "Diesen Standort übernehmen",
+      "dialog": {
+        "title": "Adresse suchen",
+        "addressLabel": "Adresse",
+        "addressHint": "z. B. Rua Imperatriz D. Amélia 72, Funchal",
+        "search": "Adresse finden",
+        "searching": "Adresse wird gesucht…",
+        "noResults": "Keine Adresse gefunden. Bitte anpassen und erneut versuchen.",
+        "addressRequired": "Bitte eine Adresse eingeben."
+      }
+    },
+    "extras": {
+      "laundry": "Wäsche",
+      "ironing": "Bügeln (große Teile)",
+      "windows": "Fenster innen & außen"
+    },
+    "validation": {
+      "address": "Bitte eine Adresse eingeben.",
+      "location": "Bitte einen Standort auf der Karte auswählen."
+    },
+    "results": {
+      "title": "Gefundene Angebote ({count})",
+      "distance": "Entfernung: {km} km",
+      "pro": "Profi: {name}",
+      "rating": "Bewertung: {rating} ⭐",
+      "window": "Zeitfenster {from} – {to}",
+      "durationChip": "Anfrage {hours} h",
+      "recurringChip": "Regelmäßig",
+      "cta": "Anfrage senden",
+      "noteTitle": "Nachricht an {name}",
+      "noteLabel": "Optionale Nachricht",
+      "noteHint": "z. B. Haustiere, besondere Wünsche...",
+      "submit": "Anfrage senden"
+    },
+    "messages": {
+      "requestSent": "Anfrage gesendet!",
+      "requestError": "Fehler: {code}",
+      "addressRequired": "Bitte Adresse ausfüllen, bevor du anfragst.",
+      "locationRequired": "Bitte Standort auswählen, bevor du anfragst.",
+      "searchError": "Suche fehlgeschlagen: {code}"
+    }
+  },
+  "chat": {
+    "title": "Chat",
+    "listTitle": "Meine Chats",
+    "noChats": "Keine Chats",
+    "noChatsSubtitle": "Starten Sie einen Job oder bewerben Sie sich, um einen Chat zu beginnen",
+    "browseJobs": "Jobs durchsuchen",
+    "jobTitle": "Job #{0}",
+    "withUser": "Mit {0}",
+    "loadError": "Fehler beim Laden der Chats",
+    "noMessages": "Keine Nachrichten",
+    "startConversation": "Beginnen Sie die Unterhaltung mit einer Nachricht",
+    "typeMessage": "Nachricht eingeben...",
+    "actions": {
+      "call": "Anrufen"
+    },
+    "imageLoadError": "Bild konnte nicht geladen werden",
+    "callUnavailable": "Die Telefon-App konnte auf diesem Gerät nicht geöffnet werden.",
+    "noPhone": "Noch keine Telefonnummer verfügbar.",
+    "yesterday": "Gestern"
+  },
+  "calendar": {
+    "title": "Kalender",
+    "weekView": "Wochenansicht",
+    "monthView": "Monatsansicht",
+    "export": "Kalender exportieren",
+    "exportTitle": "Kalender Export",
+    "exportDescription": "Kopieren Sie den folgenden Link, um Ihren Kalender in andere Apps zu importieren:",
+    "exportError": "Fehler beim Exportieren: {error}",
+    "close": "Schließen",
+    "noEventsToday": "Keine Termine an diesem Tag",
+    "selectDay": "Wählen Sie einen Tag aus",
+    "loadError": "Fehler beim Laden der Termine: {error}",
+    "newEvent": "Neuer Termin",
+    "editEvent": "Termin bearbeiten",
+    "eventDetails": "Details anzeigen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "create": "Erstellen",
+    "deleteConfirmTitle": "Termin löschen",
+    "deleteConfirmMessage": "Möchten Sie diesen Termin wirklich löschen?",
+    "eventCreated": "Termin erstellt",
+    "eventUpdated": "Termin aktualisiert",
+    "eventDeleted": "Termin gelöscht",
+    "deleteError": "Fehler beim Löschen: {error}",
+    "eventTypes": {
+      "job": "Auftrag",
+      "private": "Privater Termin",
+      "availability": "Verfügbarkeit"
+    },
+    "form": {
+      "title": "Titel",
+      "titleHint": "Termintitel eingeben",
+      "titleRequired": "Bitte geben Sie einen Titel ein",
+      "description": "Beschreibung (optional)",
+      "descriptionHint": "Zusätzliche Details...",
+      "eventType": "Termintyp",
+      "privateEvent": "Privat",
+      "availability": "Verfügbarkeit",
+      "dateTime": "Datum und Uhrzeit",
+      "date": "Datum",
+      "from": "Von",
+      "to": "Bis",
+      "bufferSettings": "Pufferzeiten (Minuten)",
+      "bufferBefore": "Vorher",
+      "bufferAfter": "Nachher",
+      "minutes": "Min",
+      "visibility": "Sichtbarkeit",
+      "busy": "Beschäftigt",
+      "privateVisibility": "Privat",
+      "location": "Standort (optional)",
+      "addLocation": "Standort hinzufügen",
+      "enterLocation": "Standort eingeben",
+      "address": "Adresse",
+      "addressExample": "z.\u202fB. Musterstraße 123, 10115 Berlin",
+      "addressSearching": "Adresse wird gesucht...",
+      "addressError": "Fehler bei der Adresssuche: {error}",
+      "latitude": "Breitengrad",
+      "longitude": "Längengrad",
+      "add": "Hinzufügen",
+      "endTimeError": "Endzeit muss nach der Startzeit liegen"
+    },
+    "jobEvent": {
+      "title": "Auftragstermin",
+      "readOnlyInfo": "Auftragstermine können nicht direkt bearbeitet werden. Kontaktieren Sie den Kunden für Terminänderungen.",
+      "buffer": "Puffer: {before} Min. vorher, {after} Min. nachher"
+    },
+    "conflicts": {
+      "blockingTitle": "Terminkonflikt",
+      "warningTitle": "Zeitplanung prüfen",
+      "conflictingEvent": "Konflikt mit „{title}“",
+      "untitledEvent": "Unbenannter Termin",
+      "directOverlap": "Die gewählte Zeit überschneidet sich mit „{title}“ ({time}). Bitte Start- oder Endzeit anpassen.",
+      "insufficientGap": "Vor „{title}“ ({time}) bleibt nicht genug Zeit. Benötigt: {required} Min – verfügbar: {actual} Min. Mindestens {missing} Minuten ergänzen.",
+      "softGap": "Zwischen diesem Termin und „{title}“ ({time}) liegen nur {actual} Minuten. Puffer erhöhen oder Zeit verschieben.",
+      "etaFallback": "Die Fahrzeit zwischen den Terminen konnte nicht ermittelt werden. Zusätzliche Zeit vor „{title}“ einplanen.",
+      "validationError": "Der Termin konnte nicht geprüft werden. Bitte erneut versuchen.",
+      "unknown": "Der Termin kann aktuell nicht gespeichert werden. Bitte anpassen oder später erneut versuchen."
+    },
+    "errors": {
+      "authRequired": "Bitte melden Sie sich an, um Termine zu speichern",
+      "authRequiredDelete": "Bitte melden Sie sich an, um Termine zu löschen",
+      "saveFailed": "Termin konnte nicht gespeichert werden. ({error})"
+    }
+  },
+  "common": {
+    "retry": "Wiederholen",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "unknownEmail": "Unbekannter Nutzer"
+  },
+  "language": {
+    "title": "Sprache",
+    "select": "Sprache auswählen"
+  },
+  "footer": {
+    "legal": {
+      "terms": "AGB",
+      "privacy": "Datenschutz",
+      "imprint": "Impressum",
+      "viewer": {
+        "loading": "Dokument wird geladen...",
+        "errorTitle": "Fehler beim Laden",
+        "errorDetail": "Fehler beim Laden: {error}",
+        "retry": "Erneut versuchen",
+        "notFound": "Dokument nicht gefunden"
+      },
+      "complianceGuard": {
+        "tagline": "Vermittlungsplattform für Reinigungsservices",
+        "checking": "Rechtliche Bestimmungen werden geprüft...",
+        "pleaseWait": "Bitte warten Sie einen Moment."
+      }
+    }
+  },
+  "success": {
+    "saved": "Erfolgreich gespeichert"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "error": {
+      "generic": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+      "photoUpload": "Profilbild konnte nicht aktualisiert werden.",
+      "noProfile": "Dein Profil konnte nicht geladen werden."
+    },
+    "photo": {
+      "updated": "Profilbild aktualisiert."
+    },
+    "marketing": {
+      "updated": "Marketing-Einstellungen gespeichert."
+    },
+    "sections": {
+      "profile": "Profil",
+      "notifications": "Benachrichtigungen",
+      "communication": "Kommunikation",
+      "account": "Konto",
+      "legal": "Rechtliches",
+      "dangerZone": "Gefahrenzone"
+    },
+    "profile": {
+      "displayName": "Anzeigename",
+      "username": "Benutzername",
+      "language": "App-Sprache",
+      "memberSince": "Mitglied seit {date}"
+    },
+    "username": {
+      "addPrompt": "Benutzername festlegen"
+    },
+    "language": {
+      "current": "Aktuell: {code}",
+      "system": "Gerätesprache (Empfohlen)",
+      "de": "Deutsch",
+      "en": "Englisch",
+      "pt": "Portugiesisch",
+      "es": "Spanisch",
+      "fr": "Französisch"
+    },
+    "notifications": {
+      "marketing": "Marketing-Benachrichtigungen",
+      "marketingHint": "Erhalte Tipps, Aktionen und wichtige Updates."
+    },
+    "phone": {
+      "title": "Telefonnummer",
+      "subtitle": "Hinterlege deine Telefonnummer, damit verifizierte Matches dich bei Bedarf schnell erreichen können.",
+      "call": "Anrufen",
+      "callHint": "Rufe {number} an",
+      "callUnavailable": "Telefonanrufe sind auf diesem Gerät nicht verfügbar.",
+      "updated": "Telefonnummer gespeichert.",
+      "removed": "Telefonnummer entfernt.",
+      "dialog": {
+        "title": "Telefonnummer",
+        "label": "Telefonnummer",
+        "hint": "+491701234567",
+        "helper": "Bitte gib die Landesvorwahl an, zum Beispiel +491701234567.",
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "remove": "Nummer entfernen"
+      }
+    },
+    "logout": "Abmelden",
+    "legal": {
+      "terms": "AGB",
+      "privacy": "Datenschutz",
+      "imprint": "Impressum",
+      "viewer": {
+        "loading": "Dokument wird geladen...",
+        "errorTitle": "Fehler beim Laden",
+        "errorDetail": "Fehler beim Laden: {error}",
+        "retry": "Erneut versuchen",
+        "notFound": "Dokument nicht gefunden"
+      },
+      "complianceGuard": {
+        "tagline": "Vermittlungsplattform für Reinigungsservices",
+        "checking": "Rechtliche Bestimmungen werden geprüft...",
+        "pleaseWait": "Bitte warten Sie einen Moment."
+      }
+    },
+    "delete": {
+      "title": "Account löschen",
+      "subtitle": "Deine Daten werden dauerhaft entfernt.",
+      "warning": "Das Löschen deines Accounts ist endgültig. Offene Jobs, Zahlungen und Disputes müssen vorher abgeschlossen sein.",
+      "confirmLabel": "E-Mail bestätigen",
+      "confirmHelper": "Gib {email} ein, um den Vorgang zu bestätigen.",
+      "acknowledge": "Ich verstehe, dass diese Aktion nicht rückgängig gemacht werden kann.",
+      "confirmAction": "Account endgültig löschen",
+      "confirmHint": "Bitte gib deine E-Mail ein, um fortzufahren.",
+      "success": "Dein Account wird gelöscht. Du wirst abgemeldet.",
+      "bullet": {
+        "profile": "Profilinformationen und Bewertungen werden entfernt.",
+        "jobs": "Offene Jobs und Leads werden storniert.",
+        "credits": "Ungenutzte Credits verfallen.",
+        "payments": "Zahlungshistorie und Quittungen gehen verloren."
+      }
+    },
+    "edit": {
+      "title": "Profil bearbeiten",
+      "subtitle": "Passe deinen öffentlichen Auftritt und deine Einstellungen an.",
+      "displayName": {
+        "title": "Anzeigename",
+        "label": "Anzeigename",
+        "hint": "Wie sollen dich andere Nutzer sehen?",
+  "helper": "Entspricht deinem Benutzernamen und aktualisiert sich automatisch.",
+        "action": "Speichern",
+        "required": "Bitte gib einen Anzeigenamen ein.",
+        "success": "Anzeigename gespeichert."
+      },
+      "username": {
+        "title": "Benutzername",
+        "label": "Dein Benutzername",
+        "helper": "Kleinbuchstaben, Zahlen, Unterstriche oder Punkte. 3–20 Zeichen.",
+        "action": "Benutzernamen sichern",
+        "disclaimer": "Dein Benutzername ist öffentlich sichtbar und eindeutig.",
+        "required": "Bitte gib einen Benutzernamen ein.",
+        "success": "Benutzername aktualisiert.",
+        "snackbarSuccess": "Benutzername gesichert!"
+      },
+      "language": {
+        "title": "App-Sprache",
+        "description": "Wähle, in welcher Sprache die App angezeigt werden soll.",
+        "success": "Sprache gespeichert."
+      }
+    }
+  },
+  "payment": {
+    "checkout": {
+      "title": "Bezahlung",
+      "total": "Gesamtbetrag",
+      "escrow_info": "Ihr Geld wird sicher verwahrt bis der Service abgeschlossen ist",
+      "pay_now": "Jetzt bezahlen",
+      "terms": "Mit der Bezahlung stimmen Sie unseren AGB zu",
+      "error": {
+        "failed_create": "Zahlung konnte nicht erstellt werden",
+        "payment_failed": "Zahlung fehlgeschlagen",
+        "invalid_request": "Ungültige Anfrage",
+        "unknown": "Unbekannter Fehler"
+      }
+    },
+    "pro_wizard": {
+      "title": "Payment Setup",
+      "welcome_title": "Erhalten Sie Zahlungen von Kunden",
+      "welcome_description": "Richten Sie Ihr Zahlungskonto ein, um direkte Überweisungen von Kunden zu erhalten.",
+      "benefits_title": "Ihre Vorteile:",
+      "benefit_secure_payments": "Sichere Zahlungen",
+      "benefit_secure_payments_desc": "Alle Transaktionen werden über Stripe abgewickelt",
+      "benefit_fast_transfers": "Schnelle Überweisungen", 
+      "benefit_fast_transfers_desc": "Erhalten Sie Ihr Geld automatisch nach 24 Stunden",
+      "benefit_protected": "Käuferschutz",
+      "benefit_protected_desc": "Schutz vor Rückbuchungen und Betrug",
+      "requirements_title": "Was Sie benötigen:",
+      "requirements_description": "Einen gültigen Ausweis und Bankverbindung. Die Einrichtung dauert nur wenige Minuten.",
+      "setup_button": "Konto einrichten",
+      "skip_button": "Später einrichten",
+      "onboarding_started": "Setup wurde gestartet",
+      "error": {
+        "failed_create": "Konto-Setup konnte nicht gestartet werden",
+        "cannot_open_url": "Link konnte nicht geöffnet werden"
+      }
+    }
+  },
+  "payouts": {
+    "title": "Auszahlungen",
+    "subtitle": "Verwalten Sie Ihre Zahlungen",
+    "history": "Auszahlungshistorie",
+    "download_csv": "CSV herunterladen",
+    "export_data": "Daten exportieren",
+    "empty_state": {
+      "title": "Keine Auszahlungen gefunden",
+      "message": "Sobald Sie Jobs abschließen, werden Ihre Auszahlungen hier angezeigt."
+    },
+    "status": {
+      "created": "Erstellt",
+      "pending": "Ausstehend", 
+      "in_transit": "Unterwegs",
+      "paid": "Ausgezahlt",
+      "failed": "Fehlgeschlagen",
+      "canceled": "Storniert",
+      "returned": "Zurückgebucht"
+    },
+    "status_description": {
+      "created": "Auszahlung wurde erstellt",
+      "pending": "Bearbeitung läuft",
+      "in_transit": "Geld ist unterwegs zu Ihrem Konto",
+      "paid": "Erfolgreich auf Ihr Konto überwiesen",
+      "failed": "Überweisung fehlgeschlagen",
+      "canceled": "Auszahlung wurde storniert", 
+      "returned": "Überweisung wurde zurückgebucht"
+    },
+    "details": {
+      "title": "Auszahlungsdetails",
+      "transfer_id": "Transfer-ID",
+      "amount": "Betrag",
+      "created_at": "Erstellt am",
+      "expected_arrival": "Erwartete Ankunft",
+      "arrived_at": "Angekommen am", 
+      "failure_reason": "Grund für Fehlschlag",
+      "description": "Beschreibung",
+      "destination": "Zielkonto",
+      "back_to_history": "Zurück zur Historie"
+    },
+    "filters": {
+      "all": "Alle",
+      "date_range": "Zeitraum",
+      "from": "Von",
+      "to": "Bis",
+      "apply": "Anwenden",
+      "clear": "Zurücksetzen"
+    },
+    "export": {
+      "title": "Daten exportieren",
+      "csv_ready": "CSV-Datei bereit",
+      "download_button": "Jetzt herunterladen",
+      "expires_in": "Läuft ab in {minutes} Minuten",
+      "generating": "Erstelle CSV...",
+      "error": "Export fehlgeschlagen"
+    },
+    "errors": {
+      "load_failed": "Auszahlungen konnten nicht geladen werden",
+      "details_failed": "Details konnten nicht geladen werden",
+      "export_failed": "Export fehlgeschlagen",
+      "unauthorized": "Nicht berechtigt",
+      "openStripe": "Stripe-Dashboard konnte nicht geöffnet werden"
+    }
+  },
+  "analytics": {
+    "title": "Analytics",
+    "admin": {
+      "title": "Analytics Dashboard",
+      "tabs": {
+        "kpis": "KPIs",
+        "events": "Events"
+      },
+      "selectDateRange": "Zeitraum wählen",
+      "summary": "Zusammenfassung",
+      "dailyBreakdown": "Tägliche Aufschlüsselung",
+      "noData": "Keine Daten für gewählten Zeitraum",
+      "noEvents": "Keine Events für gewählten Zeitraum",
+      "export": {
+        "title": "Export",
+        "events": "Events CSV",
+        "daily": "Täglich KPIs CSV",
+        "ready": "Export bereit",
+        "filename": "Datei: {filename}",
+        "expiry": "Download läuft in 1 Stunde ab",
+        "download": "Herunterladen",
+        "error": "Export fehlgeschlagen: {error}"
+      }
+    },
+    "preferences": {
+      "title": "Analytics-Einstellungen",
+      "description": "Helfen Sie uns, Brivida zu verbessern, indem Sie anonyme Nutzungsdaten teilen",
+      "enabled": "Analytics aktivieren",
+      "disabled": "Analytics deaktivieren",
+      "info": {
+        "title": "Welche Daten sammeln wir?",
+        "items": [
+          "App-Nutzungsmuster und Feature-Interaktionen",
+          "Performance-Metriken und Fehlerberichte",
+          "Anonymisiertes Nutzerverhalten zur Produktverbesserung",
+          "Keine persönlichen Informationen oder private Inhalte"
+        ]
+      },
+      "privacy": {
+        "title": "Datenschutz",
+        "items": [
+          "Alle Daten sind anonymisiert und verschlüsselt",
+          "Keine persönliche Identifikation möglich",
+          "Datenspeicherung begrenzt auf 24 Monate",
+          "Entspricht DSGVO und Datenschutzbestimmungen"
+        ]
+      },
+      "legal": "Siehe unsere Datenschutzerklärung für Details",
+      "savedNotification": "Analytics-Einstellungen gespeichert"
+    },
+    "kpis": {
+      "jobsCreated": "Aufträge erstellt",
+  "leadsCreated": "Anfragen erstellt",
+  "leadsAccepted": "Anfragen angenommen",
+      "paymentsCaptured": "Zahlungen erfasst",
+      "paymentsReleased": "Zahlungen freigegeben",
+      "refunds": "Rückerstattungen",
+      "chatMessages": "Chat-Nachrichten",
+      "activePros": "Aktive Pros",
+      "activeCustomers": "Aktive Kunden",
+      "newUsers": "Neue Nutzer",
+      "disputesOpened": "Streitfälle eröffnet",
+      "disputesResolved": "Streitfälle gelöst",
+      "avgRating": "Durchschnittsbewertung",
+      "ratingsCount": "Anzahl Bewertungen",
+      "pushDelivered": "Push zugestellt",
+      "pushOpened": "Push geöffnet",
+      "pushOpenRate": "Push-Öffnungsrate"
+    }
+  },
+  "jobForm": {
+    "title": "Neuen Auftrag erstellen",
+    "address": "Vollständige Adresse",
+    "addressRequired": "Adresse ist erforderlich",
+    "city": "Stadt",
+    "cityRequired": "Stadt ist erforderlich",
+    "district": "Bezirk",
+    "hint": "Standorthinweis",
+    "hintExample": "Nähe Lido, in der Nähe des Einkaufszentrums",
+    "doorcode": "Zugangshinweise",
+    "doorcodeExample": "Türcode: 1234, Wohnung 3B klingeln, Anrufen bei Ankunft",
+    "location": {
+      "title": "Genauer Standort",
+      "helper": "Suche die genaue Adresse, um sie auf der Karte zu sehen.",
+      "placeholder": "Noch kein Standort ausgewählt",
+      "select": "Adresse suchen",
+      "change": "Adresse ändern",
+      "selected": "Ausgewählte Adresse: {address}",
+      "coordinates": "Koordinaten: {lat}, {lng}",
+      "mapCaption": "Interaktive Google-Maps-Vorschau des Einsatzortes.",
+      "addressRequired": "Bitte gib eine Adresse ein",
+      "noResults": "Keine Adresse gefunden. Bitte anpassen und erneut versuchen.",
+      "dialog": {
+        "title": "Adresse suchen",
+        "addressLabel": "Adresse",
+        "addressHint": "z. B. Rua Imperatriz D. Amélia 72, Funchal",
+        "search": "Adresse finden",
+        "searching": "Adresse wird gesucht…"
+      }
+    },
+    "size": "Objektgröße",
+    "sizeM2": "Größe (m²)",
+    "sizeRequired": "Größe ist erforderlich",
+    "sizeInvalid": "Bitte geben Sie eine gültige Größe ein",
+    "rooms": "Anzahl Zimmer",
+    "roomsRequired": "Anzahl Zimmer ist erforderlich",
+    "roomsInvalid": "Bitte geben Sie eine gültige Zimmeranzahl ein",
+    "services": "Benötigte Dienstleistungen",
+    "servicesRequired": "Bitte wählen Sie mindestens eine Dienstleistung",
+    "schedule": "Zeitplan",
+    "startDate": "Startdatum",
+    "endDate": "Enddatum",
+    "startTime": "Startzeit",
+    "endTime": "Endzeit",
+    "selectDate": "Datum auswählen",
+    "selectTime": "Zeit auswählen",
+    "scheduleRequired": "Bitte vervollständigen Sie den Zeitplan",
+    "scheduleInvalid": "Endzeit muss nach der Startzeit liegen",
+    "budget": "Budget",
+    "budgetAmount": "Budget-Betrag",
+    "budgetRequired": "Budget ist erforderlich",
+    "budgetInvalid": "Bitte geben Sie ein gültiges Budget ein",
+    "categoryTitle": "Wohnungsgröße",
+    "categorySmall": "Appartement · bis 60 m²",
+    "categoryMedium": "Mittelgroßes Zuhause · 61–85 m²",
+    "categoryLarge": "Großes Zuhause · 86–110 m²",
+    "categoryXl": "Sehr großes Zuhause · 110–150 m²",
+    "categoryVilla": "Villa / Mehrgeschossig · ab 150 m²",
+    "extrasTitle": "Zusatzleistungen",
+    "extrasSubtitle": "Ergänzungen zur Standardreinigung.",
+    "optionMaterialsProvided": "Pro bringt Putzmittel mit",
+    "optionMaterialsProvidedSubtitle": "Inklusive Reinigungsmittel, Tücher, Staubsauger etc.",
+    "optionExpress": "Express-Priorität",
+    "optionExpressSubtitle": "20 % Eilaufschlag. Beste Chance auf kurzfristige Vermittlung.",
+    "summaryTitle": "Geschätzte Dauer & Preis",
+    "summaryDuration": "Dauer",
+    "summaryEnd": "Ende ca.",
+    "summaryPrice": "Preisabschätzung",
+    "summaryPending": "Wähle eine Startzeit, um die Schätzung zu sehen.",
+    "summaryDisclaimer": "Der finale Preis kann sich nach Abstimmung mit der Reinigungskraft verändern.",
+    "durationHours": "{hours} Std",
+    "durationHoursMinutes": "{hours} Std {minutes} Min",
+    "extraWindowsInside": "Fenster innen (+1 Std)",
+    "extraWindowsInOut": "Fenster innen & außen (+1,5 Std)",
+    "extraKitchenDeep": "Küche intensiv (+45 Min)",
+    "extraBathroomDeep": "Bad intensiv (+45 Min)",
+    "extraLaundry": "Wäsche waschen (+1 Std)",
+    "extraIroningLight": "Bügeln (bis 5 Teile) (+30 Min)",
+    "extraIroningFull": "Bügeln (ganzer Korb) (+1 Std)",
+    "extraBalcony": "Balkon/Terrasse (+30 Min)",
+    "extraOrganization": "Aufräumen & Organisieren (+45 Min)",
+    "notes": "Zusätzliche Hinweise",
+    "notesHint": "Besondere Anforderungen oder Hinweise",
+    "submit": "Auftrag erstellen",
+    "submitError": "Auftrag konnte nicht erstellt werden. Bitte versuch es erneut.",
+    "locationSaveWarning": "Auftrag erstellt, aber die Adresse konnte nicht bestätigt werden. Du kannst sie später in den Auftragsdetails aktualisieren."
+  },
+  "finance": {
+    "overview": {
+      "title": "Finanzübersicht",
+      "period": "Letzte 30 Tage",
+      "viewPayouts": "Zu den Auszahlungen",
+      "metrics": {
+        "totalNet": "Ausgezahlter Nettobetrag",
+        "pendingNet": "Ausstehend",
+        "completed": "Abgeschlossen",
+        "failed": "Fehlgeschlagen"
+      },
+      "highlights": {
+        "title": "Highlights",
+        "lastPayout": "Letzte Auszahlung",
+        "nextPayout": "Nächste Auszahlung"
+      },
+      "recent": {
+        "title": "Neueste Auszahlungen",
+        "seeAll": "Alle anzeigen",
+        "unknownDate": "Unbekanntes Datum",
+        "emptyTitle": "Noch keine Auszahlungen",
+        "emptySubtitle": "Sobald Auszahlungen verarbeitet sind, erscheinen sie hier."
+      },
+      "status": {
+        "completed": "Abgeschlossen",
+        "pending": "Ausstehend",
+        "failed": "Fehlgeschlagen"
+      },
+      "error": {
+        "generic": "Übersicht konnte nicht geladen werden",
+        "retry": "Erneut versuchen"
+      }
+    },
+    "page": {
+      "title": "Finanzen",
+      "sections": {
+        "actions": "Schnellaktionen",
+        "recent": "Neueste Auszahlungen"
+      },
+      "actions": {
+        "openPayouts": "Auszahlungsverlauf ansehen",
+        "openPayoutsSubtitle": "Alle Auszahlungen und ihren Status einsehen",
+        "downloadStatement": "Monatsbericht herunterladen",
+        "downloadStatementSubtitle": "CSV-Export deiner letzten Auszahlungen",
+        "downloadStatementComingSoon": "Export demnächst verfügbar.",
+        "downloadStatementPreparing": "Export wird vorbereitet...",
+        "downloadStatementSuccess": "Finanz-CSV bereit.",
+        "downloadStatementError": "Der Finanz-Export konnte nicht erstellt werden. Bitte versuche es erneut.",
+        "downloadStatementOptionsTitle": "Finanzbericht herunterladen",
+        "downloadStatementOptionsSubtitle": "Datei: {filename}",
+        "downloadStatementOptionOpen": "Im Browser öffnen",
+        "downloadStatementOptionCopy": "Download-Link kopieren",
+        "downloadStatementOptionCopied": "Download-Link in die Zwischenablage kopiert.",
+        "downloadStatementOptionLaunchError": "Der Download-Link konnte nicht geöffnet werden.",
+        "downloadStatementOptionExpires": "Link läuft am {date} ab",
+        "contactSupport": "Finanzsupport kontaktieren",
+        "contactSupportSubtitle": "Wir helfen dir gern bei Fragen zu Auszahlungen",
+        "contactSupportComingSoon": "Support-Kanal demnächst verfügbar.",
+        "contactSupportSubject": "Supportanfrage Finanzen",
+        "contactSupportEmailBody": "Hallo Brivida Finance Team,\n\nich benötige Unterstützung bei ...\n\nDanke!",
+        "contactSupportLaunchSuccess": "Wir haben die E-Mail-App geöffnet. Beschreibe dein Anliegen und sende die Nachricht.",
+        "contactSupportLaunchError": "Die E-Mail-App konnte nicht geöffnet werden.",
+        "contactSupportDialogTitle": "Finanz-Support kontaktieren",
+        "contactSupportDialogBody": "Sende uns eine E-Mail, damit das Finance-Team helfen kann:",
+        "contactSupportDialogOpen": "E-Mail-App öffnen",
+        "contactSupportDialogCopy": "E-Mail-Adresse kopieren",
+        "contactSupportDialogCopied": "Support-E-Mail in die Zwischenablage kopiert."
+      },
+      "recent": {
+        "statusLabel": "Status: {status}"
+      },
+      "empty": {
+        "title": "Noch keine Auszahlungen",
+        "subtitle": "Sobald Auszahlungen verfügbar sind, erscheinen sie hier."
+      }
+    }
+  },
+  "home": {
+    "title": "Startseite",
+    "welcome": "Willkommen bei Brivida!",
+    "loggedInAs": "Angemeldet als: {user}",
+    "emailNotVerified": "Bitte bestätige deine E-Mail-Adresse, um alle Funktionen nutzen zu können.",
+    "emailVerified": "Deine E-Mail ist verifiziert! Viel Spaß mit allen Funktionen.",
+    "comingSoon": "Demnächst: Aufträge veröffentlichen, passende Reinigungskräfte finden und sichere Zahlungen direkt in der App abwickeln.",
+    "features": {
+      "title": "Wichtige Funktionen",
+      "sections": {
+        "customers": "Für Kund:innen",
+        "pros": "Für Profis",
+        "shared": "Für alle"
+      },
+      "createJob": {
+        "title": "Auftrag erstellen",
+        "subtitle": "Veröffentliche eine Reinigungsanfrage in wenigen Minuten"
+      },
+      "myJobs": {
+        "title": "Meine Aufträge",
+        "subtitle": "Behalte deine veröffentlichten Aufträge im Blick"
+      },
+      "offerSearch": {
+        "title": "Angebote finden",
+        "subtitle": "Entdecke verfügbare Profis in deiner Nähe"
+      },
+      "jobFeed": {
+        "title": "Job-Feed",
+        "subtitle": "Durchsuche passende Kundenanfragen"
+      },
+      "finance": {
+        "title": "Finanzen",
+        "subtitle": "Auszahlungen und Guthaben nachverfolgen"
+      },
+      "myLeads": {
+        "title": "Meine Leads",
+        "subtitle": "Eingehende Anfragen von Kund:innen verwalten"
+      },
+      "proOffers": {
+        "title": "Meine Angebote",
+        "subtitle": "Verwalte deine angebotenen Leistungen"
+      },
+      "chats": {
+        "title": "Nachrichten",
+        "subtitle": "Mit Kund:innen und Profis chatten"
+      },
+      "calendar": {
+        "title": "Kalender",
+        "subtitle": "Termine und Verfügbarkeiten organisieren"
+      },
+      "settings": {
+        "title": "Einstellungen",
+        "subtitle": "Profil und Präferenzen anpassen"
+      },
+      "legal": {
+        "terms": {
+          "title": "Nutzungsbedingungen",
+          "subtitle": "Plattformbedingungen einsehen"
+        },
+        "privacy": {
+          "title": "Datenschutz",
+          "subtitle": "Erfahre, wie wir deine Daten verarbeiten"
+        },
+        "imprint": {
+          "title": "Impressum",
+          "subtitle": "Rechtliche Informationen zu Brivida"
+        }
+      },
+      "admin": {
+        "dashboard": {
+          "title": "Admin-Dashboard",
+          "subtitle": "Plattformstatus und Abläufe überwachen"
+        }
+      }
+    }
+  },
+  "jobs": {
+    "myJobs": "Meine Aufträge",
+    "createJob": "Auftrag erstellen",
+    "noJobsYet": "Noch keine Aufträge",
+    "createFirstJob": "Erstellen Sie Ihren ersten Auftrag um zu beginnen",
+    "errorLoadingJobs": "Fehler beim Laden der Aufträge",
+    "rooms": "Zimmer",
+    "moreServices": "mehr",
+    "serviceGeneralCleaning": "Grundreinigung"
+  },
+  "services": {
+    "generalCleaning": "Grundreinigung",
+    "deepCleaning": "Tiefenreinigung",
+    "windowCleaning": "Fensterreinigung",
+    "carpetCleaning": "Teppichreinigung",
+    "kitchenCleaning": "Küchenreinigung",
+    "bathroomCleaning": "Badezimmerreinigung",
+    "ironing": "Bügeln",
+    "organization": "Organisation"
+  },
+  "status": {
+    "open": "Offen",
+    "assigned": "Zugewiesen",
+    "completed": "Abgeschlossen",
+    "cancelled": "Storniert"
+  },
+  "admin": {
+    "dashboard": {
+      "backTooltip": "Zurück zur Startseite",
+      "title": "Admin-Dashboard",
+      "tabs": {
+        "disputes": "Disputes",
+        "payments": "Zahlungen",
+        "pros": "Profis",
+        "settings": "Einstellungen"
+      },
+      "kpi": {
+        "loadError": "Fehler beim Laden der KPIs: {error}",
+        "activePros": "Aktive Pros",
+        "openDisputes": "Offene Disputes",
+        "captured24h": "Captured €24h",
+        "refunds24h": "Refunds €24h"
+      },
+      "actions": {
+        "export": "Exportieren"
+      },
+      "filters": {
+        "status": "Statusfilter",
+        "all": "Alle",
+        "searchPlaceholder": "Suche nach Name oder E-Mail",
+        "sort": {
+          "createdAt": "Datum",
+          "healthScore": "Health Score"
+        }
+      },
+      "empty": {
+        "disputes": "Keine Disputes gefunden",
+        "payments": "Keine Zahlungen gefunden",
+        "pros": "Keine Pros gefunden"
+      },
+      "errors": {
+        "generic": "Fehler: {error}",
+        "prosLoad": "Fehler beim Laden der Pros"
+      },
+      "cards": {
+        "case": "Fall {id}",
+        "reason": "Grund: {reason}",
+        "amount": "Betrag: €{amount}",
+        "status": "Status: {status}",
+        "job": "Job: {jobId}",
+        "payment": "Zahlung {id}"
+      },
+      "flags": {
+        "soft": "SOFT BANNED",
+        "hard": "HARD BANNED"
+      },
+      "unknown": "Unbekannt",
+      "exportDialog": {
+        "title": "CSV-Export",
+        "disputes": "Disputes",
+        "payments": "Zahlungen",
+        "jobs": "Jobs",
+        "users": "Nutzer",
+        "cancel": "Abbrechen"
+      },
+      "settings": {
+        "title": "Admin-Einstellungen",
+        "dataRetention": {
+          "title": "Datenspeicherungsrichtlinie",
+          "subtitle": "Konfiguriere DSGVO-Compliance und Aufbewahrungszeiträume"
+        },
+        "analytics": {
+          "title": "Analytics-Einstellungen",
+          "subtitle": "Berichte und Analysen konfigurieren"
+        },
+        "system": {
+          "title": "Systemkonfiguration",
+          "subtitle": "Plattformweite Einstellungen und Konfigurationen"
+        }
+      }
+    }
+  },
+  "tutorial": {
+    "jobDetail": {
+      "step1": {
+        "title": "Alle Infos zum Auftrag",
+        "body": "Prüfe Fläche, Zimmer, Preis und aktuellen Status, bevor du planst."
+      },
+      "step2": {
+        "title": "Leistungen & Extras",
+        "body": "Die Chips zeigen, was gereinigt werden soll. Kontrolliere, ob du Extras wie Fenster oder Bügeln übernehmen kannst."
+      },
+      "step3": {
+        "title": "Genauer Einsatzort",
+        "body": "Berechtigte sehen Adresse und Anreisehinweise. Kopiere sie oder öffne die Karte für die Navigation."
+      },
+      "step4": {
+        "title": "Hinweise der Kundschaft",
+        "body": "Lies besondere Wünsche, Fotos oder Zugangscodes, damit es vor Ort keine Überraschungen gibt."
+      },
+      "step5": {
+        "title": "Live-Standort",
+        "body": "Falls aktiviert, verfolgst du hier die Anreise und teilst deinen Weg in Echtzeit."
+      },
+      "step6": {
+        "title": "Komfort-Checkliste",
+        "body": "Nutze die Komfort-Tools, um Material, Parkplatz und Übergabe abzuhaken, bevor du abschließt."
+      }
+    },
+    "jobCompletion": {
+      "step1": {
+        "title": "Auftrag abschließen",
+        "body": "Sobald die Reinigung fertig ist, kannst du den Auftrag hier als erledigt markieren."
+      },
+      "step2": {
+        "title": "Kurz-Check vor dem Abschluss",
+        "body": "Lade bei Bedarf Fotos hoch, bestätige die Räume und notiere offene Punkte."
+      },
+      "step3": {
+        "title": "Zahlungsstatus prüfen",
+        "body": "Sieh nach, ob die Treuhandzahlung freigegeben werden kann oder noch etwas fehlt."
+      },
+      "step4": {
+        "title": "Ergebnis bestätigen",
+        "body": "Tippe auf Akzeptieren, um die Auszahlung freizugeben, oder starte einen Disput, wenn etwas fehlt."
+      },
+      "step5": {
+        "title": "Abschlussnachricht senden",
+        "body": "Schreibe eine kurze Zusammenfassung für die Kundschaft und fordere die Bestätigung an."
+      },
+      "step6": {
+        "title": "Geschafft!",
+        "body": "Der Auftrag ist abgeschlossen. Gehe weiter zu Bewertungen oder zurück zu deinen Jobs."
+      }
+    }
+  }
+}

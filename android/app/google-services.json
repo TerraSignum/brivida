@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472055249646",
+    "project_id": "brivida-7d98d",
+    "storage_bucket": "brivida-7d98d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472055249646:android:0590c7a3c99100985e91ff",
+        "android_client_info": {
+          "package_name": "com.elyra.brivida"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7BIdQT_5NzWlMeaNf9ZkhMgdIGTPARs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
